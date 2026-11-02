@@ -1,0 +1,290 @@
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bun",
+          "quantity": 140,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "bacon",
+          "quantity": 35,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "romaine",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "chipotle peppers",
+          "quantity": 18,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 900,
+        "protein_g": 59,
+        "carbs_g": 45,
+        "fat_g": 54,
+        "fiber_g": 4.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Bacon Avocado Cheeseburger plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "ground beef",
+        "burger",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Hot Chicken Cheesesteak Sub",
+      "protein": "chicken",
+      "base": "bread",
+      "vegs": [
+        "pepper",
+        "onion",
+        "provolone"
+      ],
+      "sauce": "garlic yogurt",
+      "style": "sandwich",
+      "category": "Meal 2",
+      "status": "needs_confirmation",
+      "id": "R144",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "quantity": 150,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "pepper",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "provolone",
+          "quantity": 40,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": 12,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 700,
+        "protein_g": 53,
+        "carbs_g": 47,
+        "fat_g": 33,
+        "fiber_g": 1.8,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Hot Chicken Cheesesteak Sub plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "sandwich",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    }
+  ],
+  "nutrition_notice": "Nutrition values are rough ingredient-based approximations, not verified branded or USDA nutrient computations. Do not use for medical decisions."
+}</script>
+<script>
+const SEED=JSON.parse(document.getElementById('seed').textContent);const BASE=SEED.records;const storeKey='gather-beta-2026-v1';let state={overrides:{},week:Array.from({length:7},()=>({m2:'',m3:''})),filter:'keep',category:'All',checked:{}};try{let saved=JSON.parse(localStorage.getItem(storeKey));if(saved)state={...state,...saved};}catch(e){};const weekdays=['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));function recipes(){return BASE.map(r=>({...r,...(state.overrides[r.id]||{})}));}function get(id){return recipes().find(x=>x.id===id)}function save(){try{localStorage.setItem(storeKey,JSON.stringify(state))}catch(e){alert('Local storage unavailable; export your changes.')}}function switchTab(t){document.querySelectorAll('.pane').forEach(x=>x.classList.toggle('active',x.id===t));document.querySelectorAll('.nav button').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));document.getElementById('headTitle').textContent=({browse:'Good food, your way.',plan:'Make this week delicious.',shop:'Shop once. Cook happily.',settings:'Your kitchen, your rules.'})[t];renderAll();window.scrollTo(0,0)}function emoji(r){const s=(r.name+' '+r.protein).toLowerCase();return /oyster/.test(s)?'🦪':/shrimp|crab|crawfish/.test(s)?'🍤':/salmon|fish|snapper|redfish|cod|trout/.test(s)?'🐟':/pizza/.test(s)?'🍕':/burger/.test(s)?'🍔':/beef|steak|sirloin/.test(s)?'🥩':/smoothie/.test(s)?'🍊':/chicken/.test(s)?'🍗':'🍽️'}function coverClass(r){const s=(r.protein+' '+r.name).toLowerCase();return /fish|salmon|shrimp|crab|oyster|snapper|redfish/.test(s)?'fish':/beef|steak/.test(s)?'beef':/chicken/.test(s)?'chicken':'veggie'}function setFilter(f){state.filter=f;state.category='All';save();renderBrowse()}function renderBrowse(){const rs=recipes();const cats=['All','Meal 2','Meal 3','Oyster & Seafood','Daily Drink'];document.getElementById('filters').innerHTML=cats.map(c=>`<button class="chip ${state.category===c?'active':''}" onclick="state.category='${c}';save();renderBrowse()">${esc(c)}</button>`).join('')+`<button class="chip ${state.filter==='keep'?'':'active'}" onclick="setFilter('${state.filter==='keep'?'maybe':'keep'}')">${state.filter==='keep'?'☆ Maybes':'✓ Approved'}</button>`;const term=document.getElementById('search').value.toLowerCase();let list=rs.filter(x=>x.status===state.filter&&(state.category==='All'||x.category===state.category)&&x.name.toLowerCase().includes(term));document.getElementById('resultCount').textContent=list.length+' recipes';document.getElementById('cards').innerHTML=list.map(r=>`<article class="card"><div class="cover ${coverClass(r)}">${emoji(r)}</div><div class="cardbody"><div class="tag">${esc(r.category)} · ${r.status==='keep'?'Approved':esc(r.status)}</div><h3>${esc(r.name)}</h3><div class="meta"><span>◷ ${r.time_minutes_estimate||'?'} min</span><span>✦ ${r.nutrition_per_serving_estimate?.calories_kcal||'?'} kcal*</span></div><div class="cardactions"><button class="btn secondary" onclick="openRecipe('${r.id}')">View recipe</button><button class="btn" onclick="addNext('${r.id}')">+ Plan</button></div></div></article>`).join('')||'<div class="empty">No recipes match. Try a different filter.</div>';}
+function addNext(id){let r=get(id);if(!r||r.status!=='keep'||!['Meal 2','Meal 3'].includes(r.category)){alert('Only approved Meal 2 / Meal 3 recipes can fill regular plan slots.');return}let k=r.category==='Meal 2'?'m2':'m3';let d=state.week.find(x=>!x[k]);if(!d){alert('All '+r.category+' slots are full. Edit the Plan tab to swap meals.');return}d[k]=id;save();renderAll();alert(r.name+' added to your week!')}
+function renderPlan(){const rs=recipes().filter(r=>r.status==='keep');const m2=rs.filter(r=>r.category==='Meal 2'),m3=rs.filter(r=>r.category==='Meal 3');let opt=(arr,current)=>`<option value="">Choose a meal…</option>`+arr.map(r=>`<option value="${r.id}" ${current===r.id?'selected':''}>${esc(r.name)}</option>`).join('');document.getElementById('days').innerHTML=weekdays.map((day,i)=>`<div class="day"><div class="dayhead"><span>${day}</span><span class="tag">2 people</span></div><div class="slot"><div><small>Daily drink</small><strong>🍊 Tropical Citrus Smoothie</strong></div><span class="tag">Pinned</span></div><div class="slot"><div><small>Meal 2</small><strong>${esc(get(state.week[i]?.m2)?.name||'Not selected')}</strong></div><select aria-label="${day} Meal 2" onchange="updateSlot(${i},'m2',this.value)">${opt(m2,state.week[i]?.m2)}</select></div><div class="slot"><div><small>Meal 3</small><strong>${esc(get(state.week[i]?.m3)?.name||'Not selected')}</strong></div><select aria-label="${day} Meal 3" onchange="updateSlot(${i},'m3',this.value)">${opt(m3,state.week[i]?.m3)}</select></div></div>`).join('');let ids=state.week.flatMap(d=>[d.m2,d.m3]).filter(Boolean);document.getElementById('planned').textContent=ids.length;document.getElementById('variety').textContent=new Set(ids.map(id=>get(id)?.protein).filter(Boolean)).size;}
+function updateSlot(i,k,v){state.week[i][k]=v;save();renderAll()}function clearWeek(){if(confirm('Clear all Meal 2 and 3 selections?')){state.week=Array.from({length:7},()=>({m2:'',m3:''}));save();renderAll()}}function recommendWeek(){const rs=recipes().filter(r=>r.status==='keep');let all2=rs.filter(r=>r.category==='Meal 2'),all3=rs.filter(r=>r.category==='Meal 3');let used=new Set();let counts={};const choose=arr=>{let ordered=arr.map(r=>({r,score:(used.has(r.id)?-100:0)-(counts[r.protein]||0)*3+(r.protein==='fish'?1:0)})).sort((a,b)=>b.score-a.score);const r=ordered[0]?.r;if(r){used.add(r.id);counts[r.protein]=(counts[r.protein]||0)+1;}return r?.id||''};state.week=weekdays.map(()=>({m2:choose(all2),m3:choose(all3)}));save();renderAll()}
+function buildGroceries(){let lines=[];let ids=state.week.flatMap(d=>[d.m2,d.m3,'DRINK001']);for(let id of ids){let r=get(id);if(!r)continue;for(let v of r.ingredients||[]){let name=String(v.name||'').trim().toLowerCase(),unit=String(v.unit||'g');if(name&&Number.isFinite(Number(v.quantity)))lines.push({name,unit,group:v.group||'Other',quantity:Number(v.quantity)});}}let aggregated={};for(const l of lines){let key=l.name+'|'+l.unit;if(!aggregated[key])aggregated[key]={...l,quantity:0};aggregated[key].quantity+=l.quantity}return Object.values(aggregated).sort((a,b)=>a.group.localeCompare(b.group)||a.name.localeCompare(b.name))}function renderShopping(){let rows=buildGroceries(),groups={};for(let r of rows)(groups[r.group]??=[]).push(r);document.getElementById('shopCount').textContent=rows.length+' unique items';document.getElementById('shopping').innerHTML=Object.entries(groups).map(([g,items])=>`<div class="listgroup"><h3>${esc(g)}</h3>`+items.map(r=>{let key=r.name+'|'+r.unit;return `<label class="shoprow ${state.checked[key]?'done':''}"><input type="checkbox" ${state.checked[key]?'checked':''} onchange="state.checked[${JSON.stringify(key).replace(/"/g,'&quot;')}]=this.checked;save();renderShopping()"/><span>${esc(r.name)}</span><em>${Math.round(r.quantity)} ${esc(r.unit)}</em></label>`}).join('')+'</div>').join('')||'<div class="empty">Add meals to your weekly plan to see a grocery list. Your smoothie is included each day.</div>'}function groceryText(){let rows=buildGroceries();return rows.map(r=>`${r.name}: ${Math.round(r.quantity)} ${r.unit}`).join('\n')}function copyGroceries(){navigator.clipboard?.writeText(groceryText()).then(()=>alert('Copied!')).catch(()=>prompt('Copy the list:',groceryText()))}function downloadBlob(name,text,type='application/json'){let u=URL.createObjectURL(new Blob([text],{type})),a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),300)}function downloadGroceries(){downloadBlob('gather-groceries.csv','ingredient,quantity,unit,group\n'+buildGroceries().map(r=>[r.name,r.quantity,r.unit,r.group].map(x=>'"'+String(x).replace(/"/g,'""')+'"').join(',')).join('\n'),'text/csv')}
+function openRecipe(id){let r=get(id);if(!r)return;const n=r.nutrition_per_serving_estimate||{};document.getElementById('sheet').innerHTML=`<div class="sheethead"><span class="tag">${esc(r.category)} · ${esc(r.status)}</span><button class="btn secondary" onclick="closeRecipe()">✕ Close</button></div><div class="cover ${coverClass(r)}">${emoji(r)}</div><h2>${esc(r.name)}</h2><div class="meta"><span>2 servings</span><span>◷ ~${r.time_minutes_estimate||'?'} min</span></div><div class="statrow"><div class="stat"><b>${n.calories_kcal??'—'}</b><span>kcal/person*</span></div><div class="stat"><b>${n.protein_g??'—'}g</b><span>protein*</span></div><div class="stat"><b>${n.fiber_g??'—'}g</b><span>fiber*</span></div></div><p class="notice">* Rough draft estimates, not brand- or USDA-verified. Cooking steps and ingredient amounts are untested; confirm temperatures and doneness. Images are placeholders.</p><div class="section"><h2>Ingredients</h2><span>For 2 people</span></div><div class="ingredients">${(r.ingredients||[]).map(v=>`<div>${esc(v.name)}</div><div><b>${esc(v.quantity)} ${esc(v.unit)}</b></div>`).join('')}</div><div class="section"><h2>Instructions</h2><span>Draft</span></div><ol class="steps">${(r.steps||[]).map(s=>`<li>${esc(s)}</li>`).join('')}</ol><div class="footerbtns"><button class="btn secondary" onclick="editRecipe('${r.id}')">Edit recipe</button><button class="btn" onclick="addNext('${r.id}')">+ Add to plan</button></div>`;document.getElementById('modal').classList.add('active')}
+function closeRecipe(){document.getElementById('modal').classList.remove('active')}function editRecipe(id){let r=get(id);let draft=prompt('Edit the recipe name (further editing below):',r.name);if(draft===null)return;let ingredients=prompt('Edit ingredients JSON. Each item needs name, quantity, unit and group. Cancelling keeps original ingredients.',JSON.stringify(r.ingredients));let steps=prompt('Edit cooking steps JSON array. Cancelling keeps original steps.',JSON.stringify(r.steps));let changes={name:draft};try{if(ingredients!==null){let x=JSON.parse(ingredients);if(!Array.isArray(x)||!x.every(y=>typeof y.name==='string'&&Number.isFinite(+y.quantity)&&+y.quantity>=0&&typeof y.unit==='string'))throw Error('invalid ingredients');changes.ingredients=x}if(steps!==null){let x=JSON.parse(steps);if(!Array.isArray(x)||!x.every(y=>typeof y==='string'))throw Error('invalid steps');changes.steps=x}}catch(e){alert('Invalid JSON. No changes saved.');return}changes.nutrition_per_serving_estimate={...r.nutrition_per_serving_estimate,accuracy:'stale after edit—recalculation required'};state.overrides[id]={...(state.overrides[id]||{}),...changes};save();openRecipe(id);renderAll()}
+function exportData(){downloadBlob('gather-my-data.json',JSON.stringify({app:'gather',version:1,state,exported:new Date().toISOString()},null,2))}function importData(ev){let f=ev.target.files?.[0];if(!f)return;f.text().then(s=>{try{let d=JSON.parse(s);if(d.app!=='gather'||!d.state?.week||!d.state?.overrides)throw Error('Not a Gather backup');if(confirm('Replace current plan and edits with this backup?')){state=d.state;save();renderAll()}}catch(e){alert('Invalid backup file')}})}function copyChefPrompt(){let txt=document.getElementById('chefRequest').value.trim();if(!txt){alert('Describe a change first');return}let prompt='Help me revise a 2-serving recipe for my approved meal bank. Request: '+txt+'\nReturn exact weighted ingredients, steps, safe cook temperatures, substitution notes and mark nutrition as estimates unless calculated from verified food entries. Do not overwrite the original recipe automatically.';navigator.clipboard?.writeText(prompt).then(()=>alert('Chef request copied!')).catch(()=>window.prompt('Copy this:',prompt))}function renderAll(){renderBrowse();renderPlan();renderShopping();document.getElementById('approvedCount').textContent=recipes().filter(x=>x.status==='keep'&&x.category!=='Daily Drink').length;document.getElementById('maybeCount').textContent=recipes().filter(x=>x.status==='maybe').length}renderAll();
+</script><script>
+// Gather v0.3: work-week mode, ingredient-name canonicalization and pantry-aware shopping.
+state.activeDays=state.activeDays||5; state.workStart=state.workStart||'Monday';state.prepMode=!!state.prepMode;state.pantry=state.pantry||{};
+const originalPlan=renderPlan;
+function setActiveDays(v){state.activeDays=Number(v);save();renderAll()}
+function setWorkStart(v){state.workStart=v;save();renderAll()}
+function setPrepMode(v){state.prepMode=v;save();renderAll()}
+function workingDays(){let start=weekdays.indexOf(state.workStart);return Array.from({length:state.activeDays},(_,i)=>(start+i)%7)}
+function canon(name){let n=String(name||'').toLowerCase().trim().replace(/[’']/g,'').replace(/\s+/g,' '); const aliases=[[/^(boneless |skinless |fresh |raw )*(chicken thighs?|chicken thigh meat)$/,'chicken thighs'],[/^(fresh |raw )*(salmon fillets?|salmon filet|salmon)$/,'salmon'],[/^(lean )?(ground beef|beef mince)$/,'ground beef'],[/^(fresh )?(limes?)$/,'lime'],[/^(fresh )?(lemons?)$/,'lemon'],[/^(yellow |white )?(onions?)$/,'onion'],[/^(baby )?spinach$/,'spinach'],[/^(fresh )?(garlic cloves?|garlic)$/,'garlic'],[/^(extra virgin )?olive oil$/,'olive oil'],[/^(fresh )?(cucumbers?)$/,'cucumber'],[/^(fresh )?(tomatoes?)$/,'tomato'],[/^(cooked )?jasmine rice$/,'cooked jasmine rice']];for(let [rx,repl] of aliases)if(rx.test(n))return repl;return n}
+function relevantIds(){return workingDays().flatMap(i=>[state.week[i]?.m2,state.week[i]?.m3,'DRINK001']).filter(Boolean)}
+function buildGroceries(){const items=new Map();for(const id of relevantIds()){let r=get(id);if(!r)continue;for(const v of r.ingredients||[]){let unit=String(v.unit||'g').trim().toLowerCase(),name=canon(v.name),q=Number(v.quantity);if(!name||!Number.isFinite(q)||q<=0)continue;let key=name+'|'+unit;if(!items.has(key))items.set(key,{name,unit,group:v.group||'Other',quantity:0,sources:new Set()});let row=items.get(key);row.quantity+=q;row.sources.add(id)}}return Array.from(items.values()).map(v=>({...v,sources:[...v.sources],owned:Math.max(0,Number(state.pantry[v.name+'|'+v.unit]||0)),needed:Math.max(0,v.quantity-Math.max(0,Number(state.pantry[v.name+'|'+v.unit]||0)))})).sort((a,b)=>a.group.localeCompare(b.group)||a.name.localeCompare(b.name))}
+function renderPantry(){const root=document.getElementById('pantryEditor');if(!root)return;let a=buildGroceries();root.innerHTML='<details><summary>Edit pantry stock ('+a.length+' ingredients)</summary>'+a.map(r=>'<label>'+esc(r.name)+' <small>('+esc(r.unit)+')</small><input type="number" min="0" step="1" value="'+(state.pantry[r.name+'|'+r.unit]||0)+'" onchange="updatePantry('+JSON.stringify(r.name+'|'+r.unit).replace(/"/g,'&quot;')+',this.value)"/></label>').join('')+'</details>'}
+function updatePantry(k,v){state.pantry[k]=Math.max(0,Number(v)||0);save();renderShopping()}
+function renderShopping(){let rows=buildGroceries(),groups={};for(let r of rows)(groups[r.group]??=[]).push(r);document.getElementById('shopCount').textContent=rows.filter(r=>r.needed>0).length+' to buy';document.getElementById('shopping').innerHTML=Object.entries(groups).map(([g,items])=>'<div class="listgroup"><h3>'+esc(g)+'</h3>'+items.map(r=>{let key=r.name+'|'+r.unit;return '<label class="shoprow '+(state.checked[key]?'done':'')+'"><input type="checkbox" '+(state.checked[key]?'checked':'')+' onchange="state.checked['+JSON.stringify(key).replace(/"/g,'&quot;')+']=this.checked;save();renderShopping()"/><span>'+esc(r.name)+(r.needed<=0?' <small>in pantry</small>':'')+'</span><em>'+Math.round(r.needed)+' '+esc(r.unit)+'</em></label>'}).join('')+'</div>').join('')||'<div class="empty">Plan meals to create your shopping list.</div>';renderPantry()}
+function groceryText(){return buildGroceries().filter(r=>r.needed>0).map(r=>r.name+': '+Math.ceil(r.needed)+' '+r.unit).join('\n')}
+function downloadGroceries(){downloadBlob('gather-groceries.csv','ingredient,needed,unit,already_owned,planned_total\n'+buildGroceries().map(r=>[r.name,r.needed,r.unit,r.owned,r.quantity].map(x=>'"'+String(x).replace(/"/g,'""')+'"').join(',')).join('\n'),'text/csv')}
+function renderPlan(){originalPlan();const days=workingDays();document.querySelectorAll('#days .day').forEach((el,i)=>{el.style.display=days.includes(i)?'':'none'});let ids=days.flatMap(i=>[state.week[i]?.m2,state.week[i]?.m3]).filter(Boolean);document.getElementById('planned').textContent=ids.length;document.getElementById('variety').textContent=new Set(ids.map(id=>get(id)?.protein).filter(Boolean)).size;document.getElementById('activeDays').value=String(state.activeDays);document.getElementById('workStart').value=state.workStart;document.getElementById('prepMode').checked=state.prepMode;renderPrep()}
+function renderPrep(){let el=document.getElementById('prepGuide');if(!el)return;if(!state.prepMode){el.innerHTML='<p class="muted">Switch on prep-ahead to see a safe, practical cooking schedule.</p>';return}let ids=relevantIds().filter(x=>x!=='DRINK001'),rs=ids.map(get).filter(Boolean);let chickens=rs.filter(r=>/chicken/i.test(r.name)).length,fish=rs.filter(r=>/salmon|fish|shrimp|oyster|snapper|redfish|crab/i.test(r.name)).length;el.innerHTML='<div class="prepstep"><b>1. Prep produce and sauces</b><p class="muted">Wash and cut hardy vegetables; keep avocado, lettuce and cucumber components separate so they stay fresh. Make yogurt sauces and label them.</p></div><div class="prepstep"><b>2. Batch your starches</b><p class="muted">Cook rice or potatoes in portions; cool promptly in shallow containers and refrigerate or freeze. Do not leave cooked rice at room temperature.</p></div><div class="prepstep"><b>3. Protein prep ('+chickens+' chicken, '+fish+' seafood meal slots)</b><p class="muted">Portion and season raw proteins separately. Cook enough for the next 1–3 days; freeze later portions or freeze cooked meals promptly. Thaw safely in the refrigerator.</p></div><div class="prepstep"><b>4. Workweek reheating</b><p class="muted">Use the Black+Decker French-door oven on bake/air-fry for crispy components, or reheat sauces and rice on the stove. Keep cold toppings cold and add after reheating.</p></div><p class="pillnote">Refrigerated cooked leftovers: 3–4 days maximum; freeze later-day portions. Poultry and reheated leftovers need 165°F, ground meat 160°F. Times and appearance are not reliable substitutes for checking temperature.</p>'}
+const originalRenderAll=renderAll;renderAll=function(){originalRenderAll();renderPlan();renderShopping()};renderAll();
+</script></body></html>
