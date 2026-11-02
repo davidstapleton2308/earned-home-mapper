@@ -72,6 +72,18 @@ await page.evaluate(async id=>{let db=await new Promise((resolve,reject)=>{let r
 const savedPhoto=await page.evaluate(id=>gPhoto.picture(id),photoId);
 if(!savedPhoto?.startsWith('data:image/jpeg;'))throw Error('Recipe photo was not attached to its ID');
 await page.evaluate(()=>gPhoto.close());
+await page.evaluate(()=>gClean.go('catalog'));
+await page.locator('#gCatalogList .item').first().waitFor({state:'visible',timeout:15000});
+const catalogCount=await page.locator('#gCatalogList .item').count();
+const approvedCount=await page.evaluate(()=>recipes().filter(r=>r.status==='keep').length);
+if(catalogCount!==approvedCount)throw Error('Catalog must list every approved recipe: '+catalogCount+' vs '+approvedCount);
+await page.locator('#gCatalogList .item button').first().click();
+if(!await page.locator('#gPhotoEdit #gPhotoFile').isVisible())throw Error('Catalog photo upload did not open');
+await page.evaluate(()=>gPhoto.close());
+await page.evaluate(()=>gClean.go('settings'));
+await page.evaluate(()=>gClean.go('catalog'));
+if(await page.locator('#gCatalogList .item').count()!==approvedCount)throw Error('Catalog lost rows after returning');
+console.log('GATHER APPROVED CATALOG PASS',catalogCount);
 console.log('GATHER PHOTO EDITOR PASS');
 console.log('GATHER END TO END PASS');
 console.log('GATHER CLEAN SHELL PASS');
