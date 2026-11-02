@@ -17,6 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate JavaScript syntax
+        run: |
+          node --check gather-updates/feature-v061.js
+          node --check gather-updates/smart-pantry-v07.js
+          node --check gather-updates/update-ui.js
       - name: Assemble and validate update
         run: |
           python3 - <<'PY'
