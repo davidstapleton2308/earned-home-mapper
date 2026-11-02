@@ -86,6 +86,18 @@ await page.waitForFunction(expected=>document.querySelectorAll('#gCatalogList .i
 console.log('GATHER APPROVED CATALOG PASS',catalogCount);
 console.log('GATHER PHOTO EDITOR PASS');
 console.log('GATHER END TO END PASS');
+await page.evaluate(()=>{gClean.go('shopping')});
+await page.locator('#gCleanShop h1').waitFor();
+const shopData=await page.evaluate(()=>({rows:gShopping.rows(),plan:gShopping.plan()}));
+if(shopData.plan.entries.some(x=>x.id==='DRINK001'||x.recipe.status!=='keep'))throw Error('Shopping includes drink or unapproved meal');
+if(!shopData.plan.entries.length)throw Error('Shopping did not find saved planned meals');
+if(!shopData.rows.length)throw Error('Shopping did not calculate ingredients');
+const r0=shopData.rows[0];
+await page.locator('[data-check]').first().check();
+if(!await page.locator('#gCleanShop').getByText('1 of', {exact:false}).count())throw Error('Shopping checklist progress did not update');
+await page.evaluate(()=>{gClean.go('catalog')});
+if(!await page.locator('#gCatalogExport').count())throw Error('Photo share lost in shopping release');
+console.log('GATHER SHOPPING PASS',shopData.rows.length,'ingredients for',shopData.plan.entries.length,'meals');
 console.log('GATHER CLEAN SHELL PASS');
 console.log('GATHER SMOKE PASS',before,'=>',after);
 await browser.close();
