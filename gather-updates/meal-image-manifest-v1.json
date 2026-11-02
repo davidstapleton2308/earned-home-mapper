@@ -10,7 +10,24 @@
       "category": "Daily Drink",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Daily Tropical Citrus Nutrition Smoothie, a freshly prepared single plated serving. Dish must visibly contain plain low-fat kefir with live cultures, plain nonfat Greek yogurt, orange flesh, cold water, frozen pineapple, frozen mango, kiwi flesh, baby spinach where practical. Accurate cultured dairy and actual food format (smoothie); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "plain low-fat kefir with live cultures",
+        "plain nonfat Greek yogurt",
+        "orange flesh",
+        "cold water",
+        "frozen pineapple",
+        "frozen mango",
+        "kiwi flesh",
+        "baby spinach"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R001",
@@ -18,7 +35,24 @@
       "category": "Meal 2",
       "image_filename": "r001-steak-egg-avocado-plate.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Steak, Egg & Avocado Plate, a freshly prepared single plated serving. Dish must visibly contain potatoes, sirloin steak, tomato, garlic sauce, avocado, spinach, olive or avocado oil, fresh garlic where practical. Accurate steak and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "sirloin steak",
+        "tomato",
+        "garlic sauce",
+        "avocado",
+        "spinach",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R002",
@@ -26,7 +60,24 @@
       "category": "Meal 2",
       "image_filename": "r002-chicken-shawarma-avocado-bowl.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Chicken Shawarma Avocado Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, tomato, plain Greek yogurt, avocado, cucumber, cabbage, lemon juice where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "tomato",
+        "plain Greek yogurt",
+        "avocado",
+        "cucumber",
+        "cabbage",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R003",
@@ -34,7 +85,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chili-Lime Chicken Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, cabbage, avocado, plain Greek yogurt, lime juice, olive or avocado oil where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "cabbage",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R004",
@@ -42,7 +110,24 @@
       "category": "Meal 2",
       "image_filename": "r004-salmon-sushi-bowl.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Salmon Sushi Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, avocado, cucumber, carrot, plain Greek yogurt, sriracha where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "plain Greek yogurt",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R005",
@@ -50,7 +135,24 @@
       "category": "Meal 2",
       "image_filename": "r005-korean-beef-egg-bowl.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Korean Beef & Egg Bowl, a freshly prepared single plated serving. Dish must visibly contain beef, cooked jasmine rice, egg, avocado, cucumber, kimchi, gochujang, low-sodium soy sauce where practical. Accurate beef and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "beef",
+        "cooked jasmine rice",
+        "egg",
+        "avocado",
+        "cucumber",
+        "kimchi",
+        "gochujang",
+        "low-sodium soy sauce"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R006",
@@ -58,7 +160,24 @@
       "category": "Meal 2",
       "image_filename": "r006-crispy-chicken-avocado-quesadilla.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken & Avocado Quesadilla, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, pepper, cheese sauce, avocado, panko breadcrumbs, olive or avocado oil where practical. Accurate chicken and actual food format (quesadilla); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "pepper",
+        "cheese sauce",
+        "avocado",
+        "panko breadcrumbs",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R007",
@@ -66,7 +185,24 @@
       "category": "Meal 2",
       "image_filename": "r007-avocado-smash-burger.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Avocado Smash Burger, a freshly prepared single plated serving. Dish must visibly contain 90% lean ground beef, bun, tomato, avocado, lettuce, onion, plain Greek yogurt, ketchup where practical. Accurate ground beef and actual food format (burger); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "90% lean ground beef",
+        "bun",
+        "tomato",
+        "avocado",
+        "lettuce",
+        "onion",
+        "plain Greek yogurt",
+        "ketchup"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R008",
@@ -74,7 +210,24 @@
       "category": "Meal 2",
       "image_filename": "r008-greek-chicken-pita.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Greek Chicken Pita, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, pita, tomato, plain Greek yogurt, cucumber, cabbage, avocado, lemon juice where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "pita",
+        "tomato",
+        "plain Greek yogurt",
+        "cucumber",
+        "cabbage",
+        "avocado",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R009",
@@ -82,7 +235,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Caesar Salad Wrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, romaine, avocado, Caesar dressing, olive or avocado oil, lemon juice where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "romaine",
+        "avocado",
+        "Caesar dressing",
+        "olive or avocado oil",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R010",
@@ -90,7 +260,24 @@
       "category": "Meal 2",
       "image_filename": "r010-cajun-chicken-charred-corn-bowl.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Cajun Chicken & Charred Corn Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, black beans, corn, avocado, cabbage, plain Greek yogurt, lime juice where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "black beans",
+        "corn",
+        "avocado",
+        "cabbage",
+        "plain Greek yogurt",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R011",
@@ -98,7 +285,24 @@
       "category": "Meal 2",
       "image_filename": "r011-spicy-korean-chicken-bowl.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Spicy Korean Chicken Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, cucumber, avocado, kimchi, gochujang, scallion, low-sodium soy sauce where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "cucumber",
+        "avocado",
+        "kimchi",
+        "gochujang",
+        "scallion",
+        "low-sodium soy sauce"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R012",
@@ -106,7 +310,24 @@
       "category": "Meal 2",
       "image_filename": "r012-orange-chicken.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Orange Chicken, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, broccoli, orange juice, scallion, low-sodium soy sauce, olive or avocado oil, fresh garlic where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "broccoli",
+        "orange juice",
+        "scallion",
+        "low-sodium soy sauce",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R013",
@@ -114,7 +335,24 @@
       "category": "Meal 2",
       "image_filename": "r013-general-tso-s-chicken.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of General Tso's Chicken, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, broccoli, carrot, scallion, low-sodium soy sauce, honey, olive or avocado oil where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "broccoli",
+        "carrot",
+        "scallion",
+        "low-sodium soy sauce",
+        "honey",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R014",
@@ -122,7 +360,24 @@
       "category": "Meal 2",
       "image_filename": "r014-steak-avocado-tacos.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Steak & Avocado Tacos, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, small corn or flour tortillas, corn, tomato, avocado, cabbage, plain Greek yogurt, lime juice where practical. Accurate steak and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "small corn or flour tortillas",
+        "corn",
+        "tomato",
+        "avocado",
+        "cabbage",
+        "plain Greek yogurt",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R015",
@@ -130,7 +385,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Bacon Ranch Wrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, avocado, romaine, plain Greek yogurt, bacon, olive or avocado oil where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "avocado",
+        "romaine",
+        "plain Greek yogurt",
+        "bacon",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R016",
@@ -138,7 +410,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steak & Hummus Power Bowl, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, chickpeas, zucchini, tomato, hummus sauce, avocado, olive or avocado oil where practical. Accurate steak and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "chickpeas",
+        "zucchini",
+        "tomato",
+        "hummus sauce",
+        "avocado",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R017",
@@ -146,7 +435,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Loaded Beef Burrito Bowl, a freshly prepared single plated serving. Dish must visibly contain 90% lean ground beef, cooked jasmine rice, black beans, corn, tomato, avocado, lettuce, plain Greek yogurt where practical. Accurate ground beef and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "90% lean ground beef",
+        "cooked jasmine rice",
+        "black beans",
+        "corn",
+        "tomato",
+        "avocado",
+        "lettuce",
+        "plain Greek yogurt"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R018",
@@ -154,7 +460,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Teriyaki Salmon & Avocado Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, avocado, cucumber, low-sodium soy sauce, scallion, honey where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "low-sodium soy sauce",
+        "scallion",
+        "honey"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R019",
@@ -162,7 +485,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Pesto Pasta Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked whole-wheat pasta, tomato, avocado, spinach, basil pesto, olive or avocado oil, lemon juice where practical. Accurate chicken and actual food format (pasta); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked whole-wheat pasta",
+        "tomato",
+        "avocado",
+        "spinach",
+        "basil pesto",
+        "olive or avocado oil",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R020",
@@ -170,7 +510,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mediterranean Beef Kofta Bowl, a freshly prepared single plated serving. Dish must visibly contain 90% lean ground beef, cooked jasmine rice, tomato, plain Greek yogurt, cucumber, avocado, lemon juice, olive or avocado oil where practical. Accurate ground beef and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "90% lean ground beef",
+        "cooked jasmine rice",
+        "tomato",
+        "plain Greek yogurt",
+        "cucumber",
+        "avocado",
+        "lemon juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R021",
@@ -178,7 +535,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Sizzling Chicken Fajita Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, black beans, pepper, onion, avocado, plain Greek yogurt, lime juice where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "black beans",
+        "pepper",
+        "onion",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R022",
@@ -186,7 +560,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Bang Bang Salmon Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, avocado, cucumber, plain Greek yogurt, sriracha, olive or avocado oil where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "sriracha",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R023",
@@ -194,7 +585,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Honey-Garlic Chicken Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, broccoli, carrot, scallion, low-sodium soy sauce, honey, olive or avocado oil where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "broccoli",
+        "carrot",
+        "scallion",
+        "low-sodium soy sauce",
+        "honey",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R024",
@@ -202,7 +610,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Greek Chicken Gyros, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, pita, tomato, plain Greek yogurt, cucumber, onion, romaine, lemon juice where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "pita",
+        "tomato",
+        "plain Greek yogurt",
+        "cucumber",
+        "onion",
+        "romaine",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R025",
@@ -210,7 +635,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Buffalo Chicken Wrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, avocado, romaine, cabbage, plain Greek yogurt, panko breadcrumbs where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "avocado",
+        "romaine",
+        "cabbage",
+        "plain Greek yogurt",
+        "panko breadcrumbs"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R026",
@@ -218,7 +660,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Sesame-Ginger Salmon Noodle Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked noodles, cabbage, carrot, scallion, low-sodium soy sauce, fresh ginger, olive or avocado oil where practical. Accurate salmon and actual food format (noodles); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked noodles",
+        "cabbage",
+        "carrot",
+        "scallion",
+        "low-sodium soy sauce",
+        "fresh ginger",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R027",
@@ -226,7 +685,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Caprese Melt, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, bread, tomato, avocado, mozzarella, balsamic vinegar, basil, olive oil where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "bread",
+        "tomato",
+        "avocado",
+        "mozzarella",
+        "balsamic vinegar",
+        "basil",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R028",
@@ -234,7 +710,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Salmon & Avocado Wrap, a freshly prepared single plated serving. Dish must visibly contain salmon, small corn or flour tortillas, corn, cabbage, avocado, plain Greek yogurt, lime juice, olive or avocado oil where practical. Accurate salmon and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "small corn or flour tortillas",
+        "corn",
+        "cabbage",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R029",
@@ -242,7 +735,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Tikka Rice Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, crushed tomatoes, tomato, cucumber, plain Greek yogurt, cilantro, olive or avocado oil where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "crushed tomatoes",
+        "tomato",
+        "cucumber",
+        "plain Greek yogurt",
+        "cilantro",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R030",
@@ -250,7 +760,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Katsu Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, cabbage, avocado, cucumber, panko breadcrumbs, ketchup, Worcestershire sauce where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "cabbage",
+        "avocado",
+        "cucumber",
+        "panko breadcrumbs",
+        "ketchup",
+        "Worcestershire sauce"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R031",
@@ -258,7 +785,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Japanese Yakitori Chicken Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, broccoli, cucumber, low-sodium soy sauce, scallion, honey, olive or avocado oil where practical. Accurate chicken and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "broccoli",
+        "cucumber",
+        "low-sodium soy sauce",
+        "scallion",
+        "honey",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R032",
@@ -266,7 +810,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Caesar Pasta Bowl, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked whole-wheat pasta, tomato, romaine, Caesar dressing, parmesan, olive or avocado oil, lemon juice where practical. Accurate chicken and actual food format (pasta); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked whole-wheat pasta",
+        "tomato",
+        "romaine",
+        "Caesar dressing",
+        "parmesan",
+        "olive or avocado oil",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R033",
@@ -274,7 +835,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Salmon & Potato Bowl, a freshly prepared single plated serving. Dish must visibly contain potatoes, salmon, avocado, cucumber, plain Greek yogurt, scallion, lemon juice, olive or avocado oil where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "salmon",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "scallion",
+        "lemon juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R034",
@@ -282,7 +860,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mexican Street Corn Chicken Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, corn, cabbage, avocado, plain Greek yogurt, lime juice, cilantro where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "corn",
+        "cabbage",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R035",
@@ -290,7 +885,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Thin-Crust Chicken Bacon Ranch Pizza, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, thin pizza crust, tomato, onion, plain Greek yogurt, mozzarella, bacon, olive or avocado oil where practical. Accurate chicken and actual food format (pizza); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "thin pizza crust",
+        "tomato",
+        "onion",
+        "plain Greek yogurt",
+        "mozzarella",
+        "bacon",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R036",
@@ -298,7 +910,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Steak & Loaded Crispy Potato, a freshly prepared single plated serving. Dish must visibly contain potatoes, sirloin steak, tomato, avocado, plain Greek yogurt, scallion, garlic, olive or avocado oil where practical. Accurate steak and actual food format (potato); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "sirloin steak",
+        "tomato",
+        "avocado",
+        "plain Greek yogurt",
+        "scallion",
+        "garlic",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R037",
@@ -306,7 +935,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Salmon Sushi Tacos, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked sushi rice with nori sheets, avocado, cucumber, carrot, plain Greek yogurt, scallion, sriracha where practical. Accurate salmon and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked sushi rice with nori sheets",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "plain Greek yogurt",
+        "scallion",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R038",
@@ -314,7 +960,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mediterranean Chicken Flatbread, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, thin flatbread, tomato, avocado, cucumber, plain Greek yogurt, hummus, feta where practical. Accurate chicken and actual food format (flatbread); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "thin flatbread",
+        "tomato",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "hummus",
+        "feta"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R039",
@@ -322,7 +985,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Korean BBQ Beef Crunch Tacos, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, small corn or flour tortillas, cabbage, avocado, kimchi, gochujang, low-sodium soy sauce, olive or avocado oil where practical. Accurate steak and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "small corn or flour tortillas",
+        "cabbage",
+        "avocado",
+        "kimchi",
+        "gochujang",
+        "low-sodium soy sauce",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R040",
@@ -330,7 +1010,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Buffalo Chicken Loaded Potato, a freshly prepared single plated serving. Dish must visibly contain potatoes, boneless skinless chicken thighs, cabbage, plain Greek yogurt, cheddar, scallion, hot sauce, olive or avocado oil where practical. Accurate chicken and actual food format (potato); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "boneless skinless chicken thighs",
+        "cabbage",
+        "plain Greek yogurt",
+        "cheddar",
+        "scallion",
+        "hot sauce",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R041",
@@ -338,7 +1035,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Caesar Crunch Wrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, romaine, avocado, Caesar dressing, panko breadcrumbs, parmesan, olive or avocado oil where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "romaine",
+        "avocado",
+        "Caesar dressing",
+        "panko breadcrumbs",
+        "parmesan",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R042",
@@ -346,7 +1060,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Philly Wrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, pepper, onion, romaine, plain Greek yogurt, provolone, garlic where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "pepper",
+        "onion",
+        "romaine",
+        "plain Greek yogurt",
+        "provolone",
+        "garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R043",
@@ -354,7 +1085,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Lemon-Garlic Salmon Wrap, a freshly prepared single plated serving. Dish must visibly contain salmon, small corn or flour tortillas, avocado, cucumber, cabbage, plain Greek yogurt, lemon juice, olive or avocado oil where practical. Accurate salmon and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "small corn or flour tortillas",
+        "avocado",
+        "cucumber",
+        "cabbage",
+        "plain Greek yogurt",
+        "lemon juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R044",
@@ -362,7 +1110,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Garlic-Parmesan Chicken Sandwich, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, bread, tomato, avocado, romaine, plain Greek yogurt, panko breadcrumbs, mozzarella where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "bread",
+        "tomato",
+        "avocado",
+        "romaine",
+        "plain Greek yogurt",
+        "panko breadcrumbs",
+        "mozzarella"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R045",
@@ -370,7 +1135,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Salmon Street Tacos, a freshly prepared single plated serving. Dish must visibly contain salmon, small corn or flour tortillas, corn, cabbage, avocado, plain Greek yogurt, lime juice, cilantro where practical. Accurate salmon and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "small corn or flour tortillas",
+        "corn",
+        "cabbage",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R046",
@@ -378,7 +1160,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steak Chimichurri & Avocado Bowl, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, potato, corn, tomato, avocado, fresh parsley, olive oil where practical. Accurate steak and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "potato",
+        "corn",
+        "tomato",
+        "avocado",
+        "fresh parsley",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R047",
@@ -386,7 +1185,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Korean Chicken Bao Buns, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, steamed bao buns, cucumber, carrot, cabbage, panko breadcrumbs, gochujang, scallion where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "steamed bao buns",
+        "cucumber",
+        "carrot",
+        "cabbage",
+        "panko breadcrumbs",
+        "gochujang",
+        "scallion"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R048",
@@ -394,7 +1210,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steak & Avocado Chimichurri Flatbread, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, thin flatbread, tomato, avocado, onion, mozzarella, fresh parsley, olive oil where practical. Accurate steak and actual food format (flatbread); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "thin flatbread",
+        "tomato",
+        "avocado",
+        "onion",
+        "mozzarella",
+        "fresh parsley",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R049",
@@ -402,7 +1235,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Fish & Crispy Potato Bowl, a freshly prepared single plated serving. Dish must visibly contain potatoes, white fish fillets, corn, avocado, cabbage, plain Greek yogurt, Dijon mustard, olive or avocado oil where practical. Accurate white fish and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "white fish fillets",
+        "corn",
+        "avocado",
+        "cabbage",
+        "plain Greek yogurt",
+        "Dijon mustard",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R050",
@@ -410,7 +1260,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Chicken Banh Mi, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, bread, carrot, cucumber, mayonnaise, jalapeno, cilantro, sriracha where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "bread",
+        "carrot",
+        "cucumber",
+        "mayonnaise",
+        "jalapeno",
+        "cilantro",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R051",
@@ -418,7 +1285,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Salmon Rice Paper Rolls, a freshly prepared single plated serving. Dish must visibly contain salmon, rice paper, avocado, cucumber, carrot, cilantro, sriracha, fresh ginger where practical. Accurate salmon and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "rice paper",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "cilantro",
+        "sriracha",
+        "fresh ginger"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R052",
@@ -426,7 +1310,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Greek Chicken Crunchwrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, plain Greek yogurt, avocado, cucumber, spinach, panko breadcrumbs where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "plain Greek yogurt",
+        "avocado",
+        "cucumber",
+        "spinach",
+        "panko breadcrumbs"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R053",
@@ -434,7 +1335,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Smash Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, romaine, avocado, onion, plain Greek yogurt, panko breadcrumbs where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "romaine",
+        "avocado",
+        "onion",
+        "plain Greek yogurt",
+        "panko breadcrumbs"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R054",
@@ -442,7 +1360,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Steak & Crispy Rice Lettuce Cups, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, lettuce, avocado, cucumber, scallion, sriracha, fresh ginger where practical. Accurate steak and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "lettuce",
+        "avocado",
+        "cucumber",
+        "scallion",
+        "sriracha",
+        "fresh ginger"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R055",
@@ -450,7 +1385,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Fish Po' Boy, a freshly prepared single plated serving. Dish must visibly contain white fish fillets, bread, tomato, romaine, cabbage, plain Greek yogurt, pickle, Dijon mustard where practical. Accurate white fish and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "white fish fillets",
+        "bread",
+        "tomato",
+        "romaine",
+        "cabbage",
+        "plain Greek yogurt",
+        "pickle",
+        "Dijon mustard"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R056",
@@ -458,7 +1410,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Shawarma Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, tomato, plain Greek yogurt, avocado, cucumber, cabbage, panko breadcrumbs where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "tomato",
+        "plain Greek yogurt",
+        "avocado",
+        "cucumber",
+        "cabbage",
+        "panko breadcrumbs"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R057",
@@ -466,7 +1435,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Salmon Crispy Rice Bites, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, avocado, cucumber, plain Greek yogurt, scallion, sriracha where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "scallion",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R058",
@@ -474,7 +1460,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steak & Roasted Corn Chimichurri Sandwich, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, bread, corn, tomato, avocado, arugula, provolone, fresh parsley where practical. Accurate steak and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "bread",
+        "corn",
+        "tomato",
+        "avocado",
+        "arugula",
+        "provolone",
+        "fresh parsley"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R059",
@@ -482,7 +1485,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Salmon Teriyaki Onigiri Plate, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, avocado, cucumber, low-sodium soy sauce, honey, olive or avocado oil where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "low-sodium soy sauce",
+        "honey",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R060",
@@ -490,7 +1510,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Loaded Steak & Avocado Nachos, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, small corn or flour tortillas, black beans, corn, tomato, avocado, plain Greek yogurt, cheddar where practical. Accurate steak and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "small corn or flour tortillas",
+        "black beans",
+        "corn",
+        "tomato",
+        "avocado",
+        "plain Greek yogurt",
+        "cheddar"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R061",
@@ -498,7 +1535,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Salmon Sushi Burrito, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked sushi rice with nori sheets, avocado, cucumber, carrot, plain Greek yogurt, scallion, sriracha where practical. Accurate salmon and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked sushi rice with nori sheets",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "plain Greek yogurt",
+        "scallion",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R062",
@@ -506,7 +1560,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Al Pastor Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, pineapple, salsa verde, avocado, onion, cilantro, lime juice where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "pineapple",
+        "salsa verde",
+        "avocado",
+        "onion",
+        "cilantro",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R063",
@@ -514,7 +1585,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Steak & Whipped Feta Pita, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, pita, tomato, cucumber, avocado, onion, plain Greek yogurt, feta where practical. Accurate steak and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "pita",
+        "tomato",
+        "cucumber",
+        "avocado",
+        "onion",
+        "plain Greek yogurt",
+        "feta"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R064",
@@ -522,7 +1610,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Chicken & Avocado Pressed Sandwich, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, bread, tomato, avocado, romaine, plain Greek yogurt, pepper jack, chipotle peppers where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "bread",
+        "tomato",
+        "avocado",
+        "romaine",
+        "plain Greek yogurt",
+        "pepper jack",
+        "chipotle peppers"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R065",
@@ -530,7 +1635,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Shrimp & Avocado Mediterranean Pita, a freshly prepared single plated serving. Dish must visibly contain shrimp, pita, tomato, avocado, cucumber, plain Greek yogurt, feta, lemon juice where practical. Accurate shrimp and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "shrimp",
+        "pita",
+        "tomato",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "feta",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R066",
@@ -538,7 +1660,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Beef Birria Quesatacos, a freshly prepared single plated serving. Dish must visibly contain beef chuck roast, beef broth, small corn or flour tortillas, onion, cheddar, cilantro, dried guajillo chile, olive or avocado oil where practical. Accurate chuck and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "beef chuck roast",
+        "beef broth",
+        "small corn or flour tortillas",
+        "onion",
+        "cheddar",
+        "cilantro",
+        "dried guajillo chile",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R067",
@@ -546,7 +1685,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Pesto & Mozzarella Panini, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, bread, tomato, spinach, basil pesto, panko breadcrumbs, mozzarella, olive or avocado oil where practical. Accurate chicken and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "bread",
+        "tomato",
+        "spinach",
+        "basil pesto",
+        "panko breadcrumbs",
+        "mozzarella",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R068",
@@ -554,7 +1710,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Korean Beef Noodle Stir-Fry, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked noodles, zucchini, cabbage, carrot, gochujang, scallion, low-sodium soy sauce where practical. Accurate steak and actual food format (noodles); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked noodles",
+        "zucchini",
+        "cabbage",
+        "carrot",
+        "gochujang",
+        "scallion",
+        "low-sodium soy sauce"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R069",
@@ -562,7 +1735,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Salmon & Charred Corn Stuffed Sweet Potatoes, a freshly prepared single plated serving. Dish must visibly contain sweet potatoes, salmon, corn, avocado, plain Greek yogurt, scallion, lime juice, cilantro where practical. Accurate salmon and actual food format (potato); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sweet potatoes",
+        "salmon",
+        "corn",
+        "avocado",
+        "plain Greek yogurt",
+        "scallion",
+        "lime juice",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R070",
@@ -570,7 +1760,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Cajun Chicken & Avocado Sliders, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, buns, tomato, avocado, romaine, plain Greek yogurt, panko breadcrumbs, pickle where practical. Accurate chicken and actual food format (burger); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "buns",
+        "tomato",
+        "avocado",
+        "romaine",
+        "plain Greek yogurt",
+        "panko breadcrumbs",
+        "pickle"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R071",
@@ -578,7 +1785,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Salmon Sushi Nachos, a freshly prepared single plated serving. Dish must visibly contain salmon, wonton wrappers, edamame, avocado, cucumber, plain Greek yogurt, scallion, sriracha where practical. Accurate salmon and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "wonton wrappers",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "plain Greek yogurt",
+        "scallion",
+        "sriracha"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R072",
@@ -586,7 +1810,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Steak & Crispy Parmesan Potato Tacos, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, potato, small corn or flour tortillas, avocado, onion, fresh parsley, parmesan, cilantro where practical. Accurate steak and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "potato",
+        "small corn or flour tortillas",
+        "avocado",
+        "onion",
+        "fresh parsley",
+        "parmesan",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R073",
@@ -594,7 +1835,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Korean Sweet-Chili Chicken Crunchwrap, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, small corn or flour tortillas, cabbage, cucumber, avocado, panko breadcrumbs, mozzarella, gochujang where practical. Accurate chicken and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "small corn or flour tortillas",
+        "cabbage",
+        "cucumber",
+        "avocado",
+        "panko breadcrumbs",
+        "mozzarella",
+        "gochujang"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R074",
@@ -602,7 +1860,24 @@
       "category": "Meal 2",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mediterranean Chicken & Crispy Chickpea Plate, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, pita, chickpeas, tomato, plain Greek yogurt, avocado, cucumber, panko breadcrumbs where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "pita",
+        "chickpeas",
+        "tomato",
+        "plain Greek yogurt",
+        "avocado",
+        "cucumber",
+        "panko breadcrumbs"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R075",
@@ -610,7 +1885,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Blackened Salmon Dinner, a freshly prepared single plated serving. Dish must visibly contain sweet potatoes, salmon, asparagus, plain Greek yogurt, lemon, garlic, olive or avocado oil, fresh garlic where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sweet potatoes",
+        "salmon",
+        "asparagus",
+        "plain Greek yogurt",
+        "lemon",
+        "garlic",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R076",
@@ -618,7 +1910,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Steak & Crispy Potatoes, a freshly prepared single plated serving. Dish must visibly contain potatoes, sirloin steak, broccoli, avocado, fresh parsley, olive oil, olive or avocado oil, fresh garlic where practical. Accurate steak and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "sirloin steak",
+        "broccoli",
+        "avocado",
+        "fresh parsley",
+        "olive oil",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R077",
@@ -626,7 +1935,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken & Sausage Jambalaya, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, sausage, pepper, tomato, celery, onion, olive oil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "sausage",
+        "pepper",
+        "tomato",
+        "celery",
+        "onion",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R078",
@@ -634,7 +1960,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Shawarma Platter, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, tomato, plain Greek yogurt, cucumber, cabbage, hummus, lemon juice where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "tomato",
+        "plain Greek yogurt",
+        "cucumber",
+        "cabbage",
+        "hummus",
+        "lemon juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R079",
@@ -642,7 +1985,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Korean Steak Bibimbap, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, zucchini, egg, carrot, spinach, kimchi, gochujang where practical. Accurate steak and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "zucchini",
+        "egg",
+        "carrot",
+        "spinach",
+        "kimchi",
+        "gochujang"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R080",
@@ -650,7 +2010,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Beef & Black Bean Chili, a freshly prepared single plated serving. Dish must visibly contain 90% lean ground beef, cooked beans, crushed tomatoes, tomato, pepper, onion, avocado, olive or avocado oil where practical. Accurate ground beef and actual food format (stew); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "90% lean ground beef",
+        "cooked beans",
+        "crushed tomatoes",
+        "tomato",
+        "pepper",
+        "onion",
+        "avocado",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R081",
@@ -658,7 +2035,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Miso-Ginger Salmon, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked jasmine rice, edamame, bok choy, white miso, scallion, fresh ginger, olive or avocado oil where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked jasmine rice",
+        "edamame",
+        "bok choy",
+        "white miso",
+        "scallion",
+        "fresh ginger",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R082",
@@ -666,7 +2060,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Fish Tacos, a freshly prepared single plated serving. Dish must visibly contain white fish fillets, small corn or flour tortillas, tomato, cabbage, avocado, plain Greek yogurt, lime juice, cilantro where practical. Accurate white fish and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "white fish fillets",
+        "small corn or flour tortillas",
+        "tomato",
+        "cabbage",
+        "avocado",
+        "plain Greek yogurt",
+        "lime juice",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R083",
@@ -674,7 +2085,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cottage-Cheese Beef Lasagna, a freshly prepared single plated serving. Dish must visibly contain tomato pasta sauce, 90% lean ground beef, cottage cheese, shredded mozzarella, oven-ready lasagna noodles, yellow onion, Parmesan cheese, garlic where practical. Accurate ground beef and actual food format (lasagna); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "tomato pasta sauce",
+        "90% lean ground beef",
+        "cottage cheese",
+        "shredded mozzarella",
+        "oven-ready lasagna noodles",
+        "yellow onion",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R084",
@@ -682,7 +2110,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Slow-Cooked Beef Tacos, a freshly prepared single plated serving. Dish must visibly contain beef chuck roast, small corn or flour tortillas, salsa verde, cabbage, avocado, onion, cilantro, lime juice where practical. Accurate chuck and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "beef chuck roast",
+        "small corn or flour tortillas",
+        "salsa verde",
+        "cabbage",
+        "avocado",
+        "onion",
+        "cilantro",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R085",
@@ -690,7 +2135,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mediterranean Salmon Grain Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, farro, chickpeas, tomato, cucumber, avocado, plain Greek yogurt, feta where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "farro",
+        "chickpeas",
+        "tomato",
+        "cucumber",
+        "avocado",
+        "plain Greek yogurt",
+        "feta"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R086",
@@ -698,7 +2160,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Pho, a freshly prepared single plated serving. Dish must visibly contain chicken broth, boneless skinless chicken thighs, rice noodles, lime, scallion, jalapeno, cilantro, fresh ginger where practical. Accurate chicken and actual food format (soup); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "chicken broth",
+        "boneless skinless chicken thighs",
+        "rice noodles",
+        "lime",
+        "scallion",
+        "jalapeno",
+        "cilantro",
+        "fresh ginger"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R087",
@@ -706,7 +2185,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Slow-Braised Beef & Garlic Potatoes, a freshly prepared single plated serving. Dish must visibly contain beef chuck roast, potatoes, green beans, beef broth, carrot, onion, onion, olive or avocado oil where practical. Accurate chuck and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "beef chuck roast",
+        "potatoes",
+        "green beans",
+        "beef broth",
+        "carrot",
+        "onion",
+        "onion",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R088",
@@ -714,7 +2210,24 @@
       "category": "Meal 3",
       "image_filename": "r088-korean-bulgogi-steak-lettuce-wraps.jpg",
       "image_status": "prepared_not_deployed",
-      "notes": "Unique generated illustration prepared for visual review"
+      "notes": "Unique generated illustration prepared for visual review",
+      "photo_prompt": "Real editorial food photography of Korean Bulgogi Steak Lettuce Wraps, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, lettuce, carrot, cucumber, kimchi, gochujang, low-sodium soy sauce where practical. Accurate steak and actual food format (wrap); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "lettuce",
+        "carrot",
+        "cucumber",
+        "kimchi",
+        "gochujang",
+        "low-sodium soy sauce"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R089",
@@ -722,7 +2235,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Lemon-Parmesan Crusted Salmon, a freshly prepared single plated serving. Dish must visibly contain potatoes, salmon, asparagus, parmesan sauce, lemon, parsley, olive or avocado oil, fresh garlic where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "salmon",
+        "asparagus",
+        "parmesan sauce",
+        "lemon",
+        "parsley",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R090",
@@ -730,7 +2260,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Smoky Chicken Tinga Tostadas, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, crushed tomatoes, black beans, small corn or flour tortillas, avocado, cabbage, onion, chipotle peppers where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "crushed tomatoes",
+        "black beans",
+        "small corn or flour tortillas",
+        "avocado",
+        "cabbage",
+        "onion",
+        "chipotle peppers"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R091",
@@ -738,7 +2285,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Thai Basil Beef, a freshly prepared single plated serving. Dish must visibly contain 90% lean ground beef, cooked jasmine rice, green beans, pepper, low-sodium soy sauce, fresh basil, basil, olive or avocado oil where practical. Accurate ground beef and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "90% lean ground beef",
+        "cooked jasmine rice",
+        "green beans",
+        "pepper",
+        "low-sodium soy sauce",
+        "fresh basil",
+        "basil",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R092",
@@ -746,7 +2310,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Loaded Chicken Tortilla Soup, a freshly prepared single plated serving. Dish must visibly contain chicken broth, boneless skinless chicken thighs, cooked beans, crushed tomatoes, corn, tomato, avocado, cilantro where practical. Accurate chicken and actual food format (soup); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "chicken broth",
+        "boneless skinless chicken thighs",
+        "cooked beans",
+        "crushed tomatoes",
+        "corn",
+        "tomato",
+        "avocado",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R093",
@@ -754,7 +2335,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic Beef Udon, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, udon, bok choy, low-sodium soy sauce, scallion, fresh ginger, olive or avocado oil, fresh garlic where practical. Accurate steak and actual food format (noodles); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "udon",
+        "bok choy",
+        "low-sodium soy sauce",
+        "scallion",
+        "fresh ginger",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R094",
@@ -762,7 +2360,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Enchiladas Verdes, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, black beans, small corn or flour tortillas, salsa verde, avocado, cheddar, cilantro, lime juice where practical. Accurate chicken and actual food format (casserole); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "black beans",
+        "small corn or flour tortillas",
+        "salsa verde",
+        "avocado",
+        "cheddar",
+        "cilantro",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R095",
@@ -770,7 +2385,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Half Shell–Style Snapper Au Gratin / Orleans, a freshly prepared single plated serving. Dish must visibly contain potatoes, snapper fillets, asparagus, half-and-half, shrimp, crab, parmesan, parmesan where practical. Accurate snapper and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "snapper fillets",
+        "asparagus",
+        "half-and-half",
+        "shrimp",
+        "crab",
+        "parmesan",
+        "parmesan"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R096",
@@ -778,7 +2410,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Cajun Chicken & Sausage over Rice, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cream of mushroom soup, cooked jasmine rice, sausage, chicken broth, onion, celery, olive or avocado oil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cream of mushroom soup",
+        "cooked jasmine rice",
+        "sausage",
+        "chicken broth",
+        "onion",
+        "celery",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R097",
@@ -786,7 +2435,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Honey-Soy Glazed Salmon, a freshly prepared single plated serving. Dish must visibly contain potatoes, salmon, green beans, scallion, low-sodium soy sauce, honey, olive or avocado oil, fresh garlic where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "salmon",
+        "green beans",
+        "scallion",
+        "low-sodium soy sauce",
+        "honey",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R098",
@@ -794,7 +2460,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Birria Tacos, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, beef broth, small corn or flour tortillas, onion, panko breadcrumbs, cheddar, cilantro, dried guajillo chile where practical. Accurate chicken and actual food format (tacos); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "beef broth",
+        "small corn or flour tortillas",
+        "onion",
+        "panko breadcrumbs",
+        "cheddar",
+        "cilantro",
+        "dried guajillo chile"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R099",
@@ -802,7 +2485,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Orange Chicken Dinner, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, broccoli, orange juice, panko breadcrumbs, scallion, low-sodium soy sauce, olive or avocado oil where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "broccoli",
+        "orange juice",
+        "panko breadcrumbs",
+        "scallion",
+        "low-sodium soy sauce",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R100",
@@ -810,7 +2510,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic-Parmesan Crusted Chicken, a freshly prepared single plated serving. Dish must visibly contain potatoes, boneless skinless chicken thighs, green beans, plain Greek yogurt, parmesan, garlic, olive or avocado oil, fresh garlic where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "boneless skinless chicken thighs",
+        "green beans",
+        "plain Greek yogurt",
+        "parmesan",
+        "garlic",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R101",
@@ -818,7 +2535,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Salmon & Avocado Power Bowl, a freshly prepared single plated serving. Dish must visibly contain salmon, quinoa, edamame, avocado, cucumber, carrot, low-sodium soy sauce, fresh ginger where practical. Accurate salmon and actual food format (bowl); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "quinoa",
+        "edamame",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "low-sodium soy sauce",
+        "fresh ginger"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R102",
@@ -826,7 +2560,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Basil Chicken Fried Rice, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, egg, carrot, cabbage, scallion, low-sodium soy sauce, fresh basil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "egg",
+        "carrot",
+        "cabbage",
+        "scallion",
+        "low-sodium soy sauce",
+        "fresh basil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R103",
@@ -834,7 +2585,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Cajun Salmon Pasta, a freshly prepared single plated serving. Dish must visibly contain salmon, cooked whole-wheat pasta, half-and-half, tomato, spinach, parmesan, olive or avocado oil, fresh garlic where practical. Accurate salmon and actual food format (pasta); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "salmon",
+        "cooked whole-wheat pasta",
+        "half-and-half",
+        "tomato",
+        "spinach",
+        "parmesan",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R104",
@@ -842,7 +2610,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Thai Coconut Curry Chicken, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, light coconut milk, zucchini, pepper, carrot, curry paste, basil where practical. Accurate chicken and actual food format (curry); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "light coconut milk",
+        "zucchini",
+        "pepper",
+        "carrot",
+        "curry paste",
+        "basil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R105",
@@ -850,7 +2635,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Korean Chicken Ramen, a freshly prepared single plated serving. Dish must visibly contain chicken broth, boneless skinless chicken thighs, cooked ramen noodles, bok choy, egg, cabbage, gochujang, scallion where practical. Accurate chicken and actual food format (soup); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "chicken broth",
+        "boneless skinless chicken thighs",
+        "cooked ramen noodles",
+        "bok choy",
+        "egg",
+        "cabbage",
+        "gochujang",
+        "scallion"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R106",
@@ -858,7 +2660,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Mediterranean Sheet-Pan Chicken, a freshly prepared single plated serving. Dish must visibly contain potatoes, boneless skinless chicken thighs, chickpeas, zucchini, tomato, onion, plain Greek yogurt, feta where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "boneless skinless chicken thighs",
+        "chickpeas",
+        "zucchini",
+        "tomato",
+        "onion",
+        "plain Greek yogurt",
+        "feta"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R107",
@@ -866,7 +2685,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Tuscan Garlic Chicken, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, orzo, half-and-half, tomato, spinach, parmesan, parmesan, olive or avocado oil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "orzo",
+        "half-and-half",
+        "tomato",
+        "spinach",
+        "parmesan",
+        "parmesan",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R108",
@@ -874,7 +2710,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Gulf Redfish with Crawfish Sauce, a freshly prepared single plated serving. Dish must visibly contain potatoes, redfish fillets, asparagus, half-and-half, crawfish, parmesan, olive or avocado oil, fresh garlic where practical. Accurate redfish and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "redfish fillets",
+        "asparagus",
+        "half-and-half",
+        "crawfish",
+        "parmesan",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R109",
@@ -882,7 +2735,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken & Sausage Gumbo, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, sausage, okra, pepper, celery, onion, all-purpose flour where practical. Accurate chicken and actual food format (stew); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "sausage",
+        "okra",
+        "pepper",
+        "celery",
+        "onion",
+        "all-purpose flour"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R110",
@@ -890,7 +2760,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Gulf Fish Sandwiches, a freshly prepared single plated serving. Dish must visibly contain white fish fillets, bun, tomato, cabbage, romaine, plain Greek yogurt, Dijon mustard, olive or avocado oil where practical. Accurate white fish and actual food format (sandwich); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "white fish fillets",
+        "bun",
+        "tomato",
+        "cabbage",
+        "romaine",
+        "plain Greek yogurt",
+        "Dijon mustard",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R111",
@@ -898,7 +2785,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steak Fajita Crunch Quesadillas, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, black beans, small corn or flour tortillas, salsa verde, pepper, onion, avocado, cheddar where practical. Accurate steak and actual food format (quesadilla); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "black beans",
+        "small corn or flour tortillas",
+        "salsa verde",
+        "pepper",
+        "onion",
+        "avocado",
+        "cheddar"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R112",
@@ -906,7 +2810,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Shrimp Florentine Pasta, a freshly prepared single plated serving. Dish must visibly contain shrimp, cooked whole-wheat pasta, half-and-half, spinach, parmesan, parmesan, olive or avocado oil, fresh garlic where practical. Accurate shrimp and actual food format (pasta); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "shrimp",
+        "cooked whole-wheat pasta",
+        "half-and-half",
+        "spinach",
+        "parmesan",
+        "parmesan",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R113",
@@ -914,7 +2835,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic-Butter Salmon & Crispy Potatoes, a freshly prepared single plated serving. Dish must visibly contain potatoes, salmon, asparagus, lemon, lemon juice, olive oil, olive or avocado oil, fresh garlic where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "salmon",
+        "asparagus",
+        "lemon",
+        "lemon juice",
+        "olive oil",
+        "olive or avocado oil",
+        "fresh garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R114",
@@ -922,7 +2860,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Garlic Chicken & Gnocchi, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, gnocchi, tomato, half-and-half, spinach, parmesan, garlic, olive or avocado oil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "gnocchi",
+        "tomato",
+        "half-and-half",
+        "spinach",
+        "parmesan",
+        "garlic",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R115",
@@ -930,7 +2885,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crab-Parmesan Crusted Gulf Fish, a freshly prepared single plated serving. Dish must visibly contain potatoes, white fish fillets, asparagus, crab meat, crab, parmesan, parmesan, olive or avocado oil where practical. Accurate white fish and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "white fish fillets",
+        "asparagus",
+        "crab meat",
+        "crab",
+        "parmesan",
+        "parmesan",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R116",
@@ -938,7 +2910,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Seafood-Stuffed Salmon, a freshly prepared single plated serving. Dish must visibly contain potatoes, salmon, asparagus, half-and-half, crab, spinach, parmesan, olive or avocado oil where practical. Accurate salmon and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "salmon",
+        "asparagus",
+        "half-and-half",
+        "crab",
+        "spinach",
+        "parmesan",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R117",
@@ -946,7 +2935,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Korean BBQ Beef & Crispy Rice Skillet, a freshly prepared single plated serving. Dish must visibly contain sirloin steak, cooked jasmine rice, zucchini, egg, carrot, kimchi, low-sodium soy sauce, scallion where practical. Accurate steak and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sirloin steak",
+        "cooked jasmine rice",
+        "zucchini",
+        "egg",
+        "carrot",
+        "kimchi",
+        "low-sodium soy sauce",
+        "scallion"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R118",
@@ -954,7 +2960,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Chipotle Chicken Enchilada Skillet, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, crushed tomatoes, black beans, small corn or flour tortillas, corn, avocado, cheddar, cilantro where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "crushed tomatoes",
+        "black beans",
+        "small corn or flour tortillas",
+        "corn",
+        "avocado",
+        "cheddar",
+        "cilantro"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R119",
@@ -962,7 +2985,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Half Shell–Style Seafood-Stuffed Redfish, a freshly prepared single plated serving. Dish must visibly contain potatoes, redfish fillets, asparagus, half-and-half, crab, shrimp, parmesan, parmesan where practical. Accurate redfish and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "redfish fillets",
+        "asparagus",
+        "half-and-half",
+        "crab",
+        "shrimp",
+        "parmesan",
+        "parmesan"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R120",
@@ -970,7 +3010,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Korean Crispy Chicken & Kimchi Fried Rice, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, egg, cabbage, carrot, kimchi, panko breadcrumbs, gochujang where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "egg",
+        "cabbage",
+        "carrot",
+        "kimchi",
+        "panko breadcrumbs",
+        "gochujang"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R121",
@@ -978,7 +3035,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Cajun Chicken & Sausage Stuffed Potatoes, a freshly prepared single plated serving. Dish must visibly contain potatoes, boneless skinless chicken thighs, sausage, half-and-half, pepper, onion, scallion, parmesan where practical. Accurate chicken and actual food format (potato); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "boneless skinless chicken thighs",
+        "sausage",
+        "half-and-half",
+        "pepper",
+        "onion",
+        "scallion",
+        "parmesan"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R122",
@@ -986,7 +3060,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Chicken & Sausage Dirty Rice, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked jasmine rice, sausage, pepper, celery, onion, scallion, olive oil where practical. Accurate chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked jasmine rice",
+        "sausage",
+        "pepper",
+        "celery",
+        "onion",
+        "scallion",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R123",
@@ -994,7 +3085,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Creamy Pesto Chicken & Sun-Dried Tomato Pasta, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, cooked whole-wheat pasta, spinach, plain Greek yogurt, basil pesto, sun dried tomato, parmesan, olive or avocado oil where practical. Accurate chicken and actual food format (pasta); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "cooked whole-wheat pasta",
+        "spinach",
+        "plain Greek yogurt",
+        "basil pesto",
+        "sun dried tomato",
+        "parmesan",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R124",
@@ -1002,7 +3110,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Gulf Snapper with Lemon-Crab Cream Sauce, a freshly prepared single plated serving. Dish must visibly contain potatoes, snapper fillets, asparagus, crab, half-and-half, parmesan, lemon juice, olive or avocado oil where practical. Accurate snapper and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "snapper fillets",
+        "asparagus",
+        "crab",
+        "half-and-half",
+        "parmesan",
+        "lemon juice",
+        "olive or avocado oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R125",
@@ -1010,7 +3135,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken Schnitzel & Warm German Potato Salad, a freshly prepared single plated serving. Dish must visibly contain potatoes, boneless skinless chicken thighs, cabbage, cucumber, plain Greek yogurt, panko breadcrumbs, parsley, Dijon mustard where practical. Accurate chicken and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "boneless skinless chicken thighs",
+        "cabbage",
+        "cucumber",
+        "plain Greek yogurt",
+        "panko breadcrumbs",
+        "parsley",
+        "Dijon mustard"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R126",
@@ -1018,7 +3160,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Steakhouse Sirloin & Roasted Vegetable Platter, a freshly prepared single plated serving. Dish must visibly contain potatoes, sirloin steak, broccoli, tomato, carrot, avocado, fresh parsley, olive oil where practical. Accurate steak and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "sirloin steak",
+        "broccoli",
+        "tomato",
+        "carrot",
+        "avocado",
+        "fresh parsley",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R127",
@@ -1026,7 +3185,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Chicken Parmesan Meatballs & Creamy Tomato Orzo, a freshly prepared single plated serving. Dish must visibly contain ground chicken, orzo, crushed tomatoes, tomato, spinach, mozzarella, parmesan, garlic where practical. Accurate ground chicken and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "ground chicken",
+        "orzo",
+        "crushed tomatoes",
+        "tomato",
+        "spinach",
+        "mozzarella",
+        "parmesan",
+        "garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R128",
@@ -1034,7 +3210,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Smoky Chipotle Beef & Sweet Potato Skillet, a freshly prepared single plated serving. Dish must visibly contain sweet potatoes, 90% lean ground beef, crushed tomatoes, black beans, corn, tomato, pepper, avocado where practical. Accurate ground beef and actual food format (skillet); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "sweet potatoes",
+        "90% lean ground beef",
+        "crushed tomatoes",
+        "black beans",
+        "corn",
+        "tomato",
+        "pepper",
+        "avocado"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R129",
@@ -1042,7 +3235,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Crispy Chicken & Spinach Alfredo Lasagna Rolls, a freshly prepared single plated serving. Dish must visibly contain boneless skinless chicken thighs, oven-ready lasagna noodles, cottage cheese, half-and-half, spinach, panko breadcrumbs, mozzarella, parmesan where practical. Accurate chicken and actual food format (lasagna); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "boneless skinless chicken thighs",
+        "oven-ready lasagna noodles",
+        "cottage cheese",
+        "half-and-half",
+        "spinach",
+        "panko breadcrumbs",
+        "mozzarella",
+        "parmesan"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R130",
@@ -1050,7 +3260,24 @@
       "category": "Meal 3",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Gulf Seafood Garlic-Parmesan Stuffed Potatoes, a freshly prepared single plated serving. Dish must visibly contain potatoes, shrimp, broccoli, half-and-half, crab, spinach, scallion, garlic where practical. Accurate shrimp and actual food format (potato); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "shrimp",
+        "broccoli",
+        "half-and-half",
+        "crab",
+        "spinach",
+        "scallion",
+        "garlic"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R131",
@@ -1058,7 +3285,24 @@
       "category": "Oyster & Seafood",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Garlic-Parmesan Chargrilled Oysters, a freshly prepared single plated serving. Dish must visibly contain shucked oysters, potatoes, fresh lemon, parmesan, lemon, parmesan, parsley, olive oil where practical. Accurate oyster and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "shucked oysters",
+        "potatoes",
+        "fresh lemon",
+        "parmesan",
+        "lemon",
+        "parmesan",
+        "parsley",
+        "olive oil"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R132",
@@ -1066,7 +3310,24 @@
       "category": "Oyster & Seafood",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Spicy Orleans Oysters, a freshly prepared single plated serving. Dish must visibly contain shucked oysters, potatoes, half-and-half, shrimp, crab, fresh lemon, parmesan, scallion where practical. Accurate oyster and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "shucked oysters",
+        "potatoes",
+        "half-and-half",
+        "shrimp",
+        "crab",
+        "fresh lemon",
+        "parmesan",
+        "scallion"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R133",
@@ -1074,7 +3335,24 @@
       "category": "Oyster & Seafood",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Oysters Au Gratin, a freshly prepared single plated serving. Dish must visibly contain shucked oysters, potatoes, half-and-half, mozzarella, fresh lemon, parmesan, parmesan, parsley where practical. Accurate oyster and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "shucked oysters",
+        "potatoes",
+        "half-and-half",
+        "mozzarella",
+        "fresh lemon",
+        "parmesan",
+        "parmesan",
+        "parsley"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     },
     {
       "recipe_id": "R134",
@@ -1082,7 +3360,24 @@
       "category": "Oyster & Seafood",
       "image_filename": null,
       "image_status": "missing",
-      "notes": "No image mapped. Do not use category stock images."
+      "notes": "No image mapped. Do not use category stock images.",
+      "photo_prompt": "Real editorial food photography of Cajun Shrimp & Guacamole Plate, a freshly prepared single plated serving. Dish must visibly contain potatoes, shrimp, avocado, tomato, avocado, cucumber, lime, lime juice where practical. Accurate shrimp and actual food format (plate); natural restaurant plating, appetizing texture, realistic sauce, window daylight, 50mm camera, gentle shadows, no people, no text, no excessive glossy artificial sheen, no unrelated ingredients, no watermarks.",
+      "key_visible_ingredients": [
+        "potatoes",
+        "shrimp",
+        "avocado",
+        "tomato",
+        "avocado",
+        "cucumber",
+        "lime",
+        "lime juice"
+      ],
+      "quality_rules": [
+        "Clearly depict named dish and protein",
+        "Natural food texture, not synthetic or plastic-looking",
+        "No unrelated food types or repeated image between recipe IDs",
+        "No on-image text"
+      ]
     }
   ]
 }
