@@ -20,5 +20,8 @@ function choose(id){prefs.store=id;persist();render()}
 function plan(){gUI.start()}
 function list(){gUI.view('shop')}
 window.gStore={show,next,choose,save,plan,list};
+const navButtons=document.querySelectorAll('nav.nav button');navButtons.forEach(b=>{if(!['gStore','gToday','browse','settings'].includes(b.dataset.tab))b.style.display='none'});
+const shell=document.createElement('style');shell.textContent='nav.nav{justify-content:space-evenly}nav.nav button{min-width:20%;font-size:12px}nav.nav button b{font-size:23px}button{touch-action:manipulation}';document.head.append(shell);
 document.getElementById('settings')?.insertAdjacentHTML('afterbegin','<div class="workbox"><h3>Shopping stores</h3><p class="muted">Walmart and Sam’s Club. Track your own confirmed prices and aisle locations.</p><button class="btn" onclick="gStore.next(1)">Choose shopping store</button></div>');
+const alreadyPlanned=state.week.some(d=>d.m2||d.m3);if(!alreadyPlanned)show();
 })();
