@@ -46,7 +46,7 @@ jobs:
           smart=(root/'smart-pantry-v07.js').read_text()
           shopping=(root/'shopping-guide-v08.js').read_text()
           wizard=(root/'wizard-v09.js').read_text()
-          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script></body>')
+          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script><script>'+wizard+'</script></body>')
           if 'GATHER / YOUR PERSONAL CHEF' not in html or 'id="settings"' not in html: raise SystemExit("Invalid app")
           payload=html.encode('utf-8')
           (root/'index.html').write_bytes(payload)
