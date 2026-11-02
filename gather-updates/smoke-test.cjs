@@ -63,6 +63,16 @@ if(!await page.locator('#gatherClean #gather-check').count())throw Error('Update
 if(!await page.locator('#gatherClean #gatherTestButton').count())throw Error('Diagnostics missing after repeated Settings visits');
 const missingImages=await page.evaluate(()=>Object.entries(window.GATHER_MEAL_PHOTOS||{}).filter(([id,src])=>!id||!src.startsWith('data:image/jpeg;base64,')));
 if(missingImages.length)throw Error('Unpacked photo data '+missingImages.length);
+await page.evaluate(()=>{gClean.begin();gClean.next();gClean.mode('manual')});
+if(!await page.locator('#gatherClean .mealRow').count())throw Error('Missing approved meal selection');
+await page.locator('#gatherClean').getByText('Add or change this meal photo').first().click();
+if(!await page.locator('#gPhotoEdit #gPhotoFile').count())throw Error('Photo picker missing');
+const photoId=await page.evaluate(()=>document.querySelector('#gatherClean .mealRow').dataset.recipeId);
+await page.evaluate(async id=>{let db=await new Promise((resolve,reject)=>{let req=indexedDB.open('gather-photo-library-v1',1);req.onsuccess=()=>resolve(req.result);req.onerror=()=>reject(req.error)});await new Promise((resolve,reject)=>{let tx=db.transaction('photos','readwrite');tx.objectStore('photos').put({data:'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2Q==',name:'test',updated:'test'},id);tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error)})},photoId);
+const savedPhoto=await page.evaluate(id=>gPhoto.picture(id),photoId);
+if(!savedPhoto?.startsWith('data:image/jpeg;'))throw Error('Recipe photo was not attached to its ID');
+await page.evaluate(()=>gPhoto.close());
+console.log('GATHER PHOTO EDITOR PASS');
 console.log('GATHER END TO END PASS');
 console.log('GATHER CLEAN SHELL PASS');
 console.log('GATHER SMOKE PASS',before,'=>',after);
