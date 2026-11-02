@@ -1,0 +1,1000 @@
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 95,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 15,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 620,
+        "protein_g": 47,
+        "carbs_g": 42,
+        "fat_g": 28,
+        "fiber_g": 3.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Chicken Shawarma Platter plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Korean Steak Bibimbap",
+      "protein": "steak",
+      "base": "rice",
+      "vegs": [
+        "zucchini",
+        "carrot",
+        "spinach",
+        "egg",
+        "kimchi"
+      ],
+      "sauce": "gochujang",
+      "style": "bowl",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R079",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "quantity": 80,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "kimchi",
+          "quantity": 70,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "gochujang",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": 12,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 650,
+        "protein_g": 50,
+        "carbs_g": 41,
+        "fat_g": 31,
+        "fiber_g": 3.3,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Korean Steak Bibimbap plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "steak",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Beef & Black Bean Chili",
+      "protein": "ground beef",
+      "base": "beans",
+      "vegs": [
+        "tomato",
+        "onion",
+        "pepper",
+        "avocado"
+      ],
+      "sauce": "chili",
+      "style": "stew",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R080",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "90% lean ground beef",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked beans",
+          "quantity": 230,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "pepper",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "crushed tomatoes",
+          "quantity": 200,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "chili powder",
+          "quantity": 10,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 720,
+        "protein_g": 48,
+        "carbs_g": 47,
+        "fat_g": 37,
+        "fiber_g": 13.6,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Beef & Black Bean Chili plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "ground beef",
+        "stew",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Miso-Ginger Salmon",
+      "protein": "salmon",
+      "base": "rice",
+      "vegs": [
+        "edamame",
+        "bok choy",
+        "scallion"
+      ],
+      "sauce": "miso ginger",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R081",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "edamame",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "bok choy",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "white miso",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": 15,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 650,
+        "protein_g": 47,
+        "carbs_g": 37,
+        "fat_g": 33,
+        "fiber_g": 3.8,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Miso-Ginger Salmon plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "salmon",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Fish Tacos",
+      "protein": "white fish",
+      "base": "tortilla",
+      "vegs": [
+        "cabbage",
+        "avocado",
+        "tomato",
+        "cilantro"
+      ],
+      "sauce": "lime crema",
+      "style": "tacos",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R082",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "white fish fillets",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 520,
+        "protein_g": 47,
+        "carbs_g": 42,
+        "fat_g": 18,
+        "fiber_g": 5.2,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Fish Tacos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "white fish",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Cottage-Cheese Beef Lasagna",
+      "protein": "ground beef",
+      "base": "lasagna",
+      "vegs": [
+        "cottage cheese",
+        "mozzarella",
+        "parmesan",
+        "tomato",
+        "onion"
+      ],
+      "sauce": "marinara",
+      "style": "lasagna",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R083",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "90% lean ground beef",
+          "quantity": 225,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "oven-ready lasagna noodles",
+          "quantity": 100,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cottage cheese",
+          "quantity": 225,
+          "unit": "g",
+          "group": "dairy",
+          "optional": false
+        },
+        {
+          "name": "shredded mozzarella",
+          "quantity": 115,
+          "unit": "g",
+          "group": "dairy",
+          "optional": false
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 30,
+          "unit": "g",
+          "group": "dairy",
+          "optional": false
+        },
+        {
+          "name": "tomato pasta sauce",
+          "quantity": 250,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "yellow onion",
+          "quantity": 70,
+          "unit": "g",
+          "group": "produce",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "Italian seasoning",
+          "quantity": 3,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven/air fryer on BAKE to 350°F (fan off if possible). Use two small deep oven-safe loaf dishes; lightly oil.",
+        "Brown 225 g beef with 70 g finely diced onion and garlic; stir in 250 g tomato sauce and seasoning, simmer 5 minutes.",
+        "Spread thin sauce in each dish, add oven-ready noodle pieces, cottage cheese, Parmesan and mozzarella. Repeat, keeping noodle surfaces covered with sauce; no egg.",
+        "Cover with foil and bake 25–30 minutes at 350°F; check noodle tenderness and continue covered 8–10 minutes if firm.",
+        "Uncover, raise to 375°F and bake 7–10 minutes to brown cheese. Cook casserole until hot throughout (165°F); rest 10–15 minutes."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 700,
+        "protein_g": 53,
+        "carbs_g": 47,
+        "fat_g": 30,
+        "fiber_g": 0.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Cottage-Cheese Beef Lasagna plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 55,
+      "tags": [
+        "Meal 3",
+        "ground beef",
+        "lasagna",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Slow-Cooked Beef Tacos",
+      "protein": "chuck",
+      "base": "tortilla",
+      "vegs": [
+        "cabbage",
+        "avocado",
+        "onion",
+        "cilantro"
+      ],
+      "sauce": "salsa verde",
+      "style": "tacos",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R084",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "beef chuck roast",
+          "quantity": 440,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "salsa verde",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Brown chuck pieces with onion and garlic in olive oil.",
+        "Add broth, dried chilies and spices; cover and simmer gently 2.5–3.5 hours until fork-tender (or pressure-cook per appliance directions).",
+        "Shred meat and reduce or strain the cooking broth for dipping or sauce.",
+        "Warm tortillas, add shredded beef and garnishes, and toast in a skillet if making crispy tacos; serve with the broth."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 770,
+        "protein_g": 47,
+        "carbs_g": 47,
+        "fat_g": 45,
+        "fiber_g": 5.3,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Slow-Cooked Beef Tacos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 70,
+      "tags": [
+        "Meal 3",
+        "chuck",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Mediterranean Salmon Grain Bowl",
+      "protein": "salmon",
+      "base": "farro",
+      "vegs": [
+        "chickpeas",
+        "cucumber",
+        "tomato",
+        "avocado",
+        "feta"
+      ],
+      "sauce": "lemon yogurt",
+      "style": "bowl",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R085",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "farro",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "chickpeas",
+          "quantity": 130,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "feta",
+          "quantity": 45,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
