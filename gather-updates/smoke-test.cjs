@@ -7,7 +7,7 @@ await page.goto('file://'+process.cwd()+'/gather-updates/index.html',{waitUntil:
 await page.evaluate(()=>{localStorage.clear()});
 await page.reload({waitUntil:'load'});
 if(await page.locator('#gWizard9').count()!==1)throw Error('Wizard missing: '+errors.join('; '));
-await page.evaluate(()=>gWizard9.start());
+await page.evaluate(()=>{document.body.classList.remove('gather-simple');gWizard9.start()});
 if(!await page.getByText('How many people?',{exact:false}).count())throw Error('Setup missing');
 await page.evaluate(()=>gWizard9.next());
 if(!await page.getByText('Pick Myself',{exact:false}).count())throw Error('Mode missing');
@@ -29,7 +29,7 @@ const diag=await page.locator('#gatherTestProgress').innerText();
 if(!diag.includes('Finished:'))throw Error('Diagnostics did not finish');
 if(!await page.locator('#gatherCopyTest').count())throw Error('Diagnostic export button missing');
 console.log('GATHER DIAGNOSTICS PASS',diag);
-await page.evaluate(()=>gClean.begin());
+await page.evaluate(()=>{document.body.classList.add('gather-simple');gClean.begin()});
 if(!await page.locator('#gatherClean select').count())throw Error('Clean planner setup not visible');
 await page.evaluate(()=>gClean.next());
 await page.evaluate(()=>gClean.mode('manual'));
