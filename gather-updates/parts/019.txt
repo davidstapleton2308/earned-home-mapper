@@ -1,0 +1,1000 @@
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Spicy Pineapple Chicken Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Hot Honey Chicken Bowl",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "broccoli",
+        "avocado",
+        "scallion"
+      ],
+      "sauce": "hot honey",
+      "style": "bowl",
+      "category": "Various",
+      "status": "maybe",
+      "id": "R136",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "quantity": 160,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "honey",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "hot sauce",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 640,
+        "protein_g": 43,
+        "carbs_g": 50,
+        "fat_g": 31,
+        "fiber_g": 6.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Hot Honey Chicken Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Salmon Florentine Pasta",
+      "protein": "salmon",
+      "base": "pasta",
+      "vegs": [
+        "spinach",
+        "parmesan"
+      ],
+      "sauce": "florentine cream",
+      "style": "pasta",
+      "category": "Various",
+      "status": "maybe",
+      "id": "R137",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked whole-wheat pasta",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "quantity": 80,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "half-and-half",
+          "quantity": 115,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 30,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Bring salted water to a boil; cook pasta/noodles to package directions; reserve 120 mL cooking water.",
+        "Season meat and sauté in olive/avocado oil over medium-high heat until cooked (poultry 165°F, fish 145°F, shrimp opaque). Remove briefly.",
+        "Sauté garlic and chopped vegetables, then add the measured sauce components; simmer gently 2–4 minutes.",
+        "Toss pasta and meat through the sauce, loosening with reserved pasta water; add tender greens at the end.",
+        "Split between two bowls, finish with herbs, lemon or Parmesan as listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 780,
+        "protein_g": 55,
+        "carbs_g": 36,
+        "fat_g": 45,
+        "fiber_g": 0.8,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Salmon Florentine Pasta plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "salmon",
+        "pasta",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic-Parmesan Chicken & Roasted Tomato Orzo",
+      "protein": "chicken",
+      "base": "orzo",
+      "vegs": [
+        "tomato",
+        "spinach",
+        "parmesan",
+        "basil"
+      ],
+      "sauce": "garlic cream",
+      "style": "skillet",
+      "category": "Various",
+      "status": "maybe",
+      "id": "R138",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "orzo",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "quantity": 80,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "half-and-half",
+          "quantity": 100,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": 14,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 550,
+        "protein_g": 45,
+        "carbs_g": 15,
+        "fat_g": 33,
+        "fiber_g": 1.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Garlic-Parmesan Chicken & Roasted Tomato Orzo plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "chicken",
+        "skillet",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic-Parmesan Crusted Redfish & Lemon Orzo",
+      "protein": "redfish",
+      "base": "orzo",
+      "vegs": [
+        "zucchini",
+        "tomato",
+        "parsley"
+      ],
+      "sauce": "garlic parmesan",
+      "style": "plate",
+      "category": "Various",
+      "status": "maybe",
+      "id": "R139",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "redfish fillets",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "orzo",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 40,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "quantity": 16,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 450,
+        "protein_g": 45,
+        "carbs_g": 14,
+        "fat_g": 23,
+        "fiber_g": 1.4,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Garlic-Parmesan Crusted Redfish & Lemon Orzo plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "redfish",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Sticky Korean BBQ Chicken Meatballs",
+      "protein": "ground chicken",
+      "base": "rice",
+      "vegs": [
+        "broccoli",
+        "cucumber",
+        "kimchi",
+        "scallion"
+      ],
+      "sauce": "gochujang",
+      "style": "bowl",
+      "category": "Various",
+      "status": "maybe",
+      "id": "R140",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "ground chicken",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "quantity": 160,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "kimchi",
+          "quantity": 70,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "gochujang",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 560,
+        "protein_g": 43,
+        "carbs_g": 41,
+        "fat_g": 24,
+        "fiber_g": 3.8,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Sticky Korean BBQ Chicken Meatballs plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Various",
+        "ground chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Classic Double Smash Burger",
+      "protein": "ground beef",
+      "base": "bun",
+      "vegs": [
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickle",
+        "cheddar"
+      ],
+      "sauce": "burger sauce",
+      "style": "burger",
+      "category": "Meal 2",
+      "status": "needs_confirmation",
+      "id": "R141",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "90% lean ground beef",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bun",
+          "quantity": 140,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "lettuce",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "pickle",
+          "quantity": 40,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 75,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "ketchup",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 770,
+        "protein_g": 53,
+        "carbs_g": 46,
+        "fat_g": 41,
+        "fiber_g": 2.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Classic Double Smash Burger plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "ground beef",
+        "burger",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "My Mike's Way Sandwich",
+      "protein": "chicken",
+      "base": "bread",
+      "vegs": [
+        "romaine",
+        "tomato",
+        "onion",
+        "provolone"
+      ],
+      "sauce": "mikes way",
+      "style": "sandwich",
+      "category": "Meal 2",
+      "status": "needs_confirmation",
+      "id": "R142",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "customization_note": "Specific sandwich meat/order not confirmed; proposed roasted chicken version is NOT a verified user recipe.",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "quantity": 150,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "romaine",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "provolone",
+          "quantity": 40,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "quantity": 15,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "red wine vinegar",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 740,
+        "protein_g": 49,
+        "carbs_g": 46,
+        "fat_g": 40,
+        "fiber_g": 2.3,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "My Mike's Way Sandwich plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "sandwich",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Bacon Avocado Cheeseburger",
+      "protein": "ground beef",
+      "base": "bun",
+      "vegs": [
+        "bacon",
+        "avocado",
+        "tomato",
+        "romaine",
+        "cheddar"
+      ],
+      "sauce": "chipotle yogurt",
+      "style": "burger",
+      "category": "Meal 2",
+      "status": "needs_confirmation",
+      "id": "R143",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "90% lean ground beef",
+          "quantity": 380,
