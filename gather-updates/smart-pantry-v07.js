@@ -4,7 +4,28 @@ const saveDB=()=>{localStorage.setItem(KEY,JSON.stringify(db));for(const [k,v] o
 const q=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const allowed=()=>recipes().filter(r=>r.status==='keep'&&['Meal 2','Meal 3'].includes(r.category));
 const alias=x=>canon(x).replace(/^fresh /,'').replace(/^(large|small) /,'').replace(/\s+/g,' ').trim();
-const score=r=>{let all=r.ingredients||[];if(!all.length)return 0;let have=0,need=0;for(let i of all){let n=alias(i.name),stock=db.stock[n]||0;if(i.group==='seasoning')continue;need++;if(stock>=Number(i.quantity)||stock>0)have+=Math.min(1,stock/(+i.quantity||1))}return Math.round(have/Math.max(1,need)*100)};
+function reservedStock(){
+ let result={};let slot=document.getElementById('swapSlot')?.value||'';
+ let weekday=(new Date().getDay()+6)%7;
+ for(let d=weekday;d<7;d++)for(let meal of ['m2','m3']){
+  if(d+':'+meal===slot)continue;
+  const id=state.week[d]?.[meal],r=get(id);if(!r)continue;
+  const when=new Date();when.setDate(when.getDate()+d-weekday);
+  const mark=when.toDateString()+':'+meal+':'+id;
+  if(db.history.some(h=>h.mark===mark))continue;
+  for(const ing of r.ingredients||[]){let k=alias(ing.name);result[k]=(result[k]||0)+Number(ing.quantity||0)}
+ }
+ return result;
+}
+const score=r=>{
+ let ingredients=r.ingredients||[],reserved=reservedStock(),have=0,total=0;
+ for(const i of ingredients){
+  if(i.group==='seasoning'||!Number(i.quantity))continue;
+  let key=alias(i.name),available=Math.max(0,Number(db.stock[key]||0)-Number(reserved[key]||0));
+  total++;have+=Math.min(1,available/Number(i.quantity));
+ }
+ return Math.round(100*have/Math.max(1,total));
+};
 const moods=['Anything','Crispy','Spicy','Comfort','Fresh','Seafood','Chicken','Beef','Quick'];
 let section=document.createElement('section');section.className='gnew';section.id='gPantry';document.querySelector('main.wrap').prepend(section);
 document.querySelector('nav.nav').insertAdjacentHTML('beforeend','<button data-tab="gPantry" onclick="smartGather.show()"><b>▤</b>Pantry</button>');
@@ -20,7 +41,7 @@ function change(name,value){let n=Number(value);if(n>=0&&Number.isFinite(n)){db.
 function mood(m){db.mood=m;saveDB();paint();options()}
 function filter(r){let s=(r.name+' '+(r.tags||[]).join(' ')).toLowerCase();return db.mood==='Anything'||(db.mood==='Quick'?(r.time_minutes_estimate||60)<=35:s.includes(db.mood.toLowerCase()))}
 function list(){return allowed().filter(filter).sort((a,b)=>score(b)-score(a)).slice(0,10)}
-function options(){let el=document.getElementById('smartResults');let a=list();el.innerHTML='<h3>Best pantry matches</h3><p class="muted">Ranked by ingredient coverage, not guaranteed to be cookable without shopping.</p>'+a.map(r=>'<div class="tile"><img class="recipephoto" loading="lazy" src="'+photo(r)+'" alt="Illustrative food photo, not the exact dish"><strong>'+q(r.name)+'</strong> · '+score(r)+'% pantry coverage<div class="row"><button onclick="openRecipe('+JSON.stringify(r.id)+')">See recipe</button><button onclick="smartGather.replace('+JSON.stringify(r.id)+')">Use for dinner</button></div></div>').join('')}
+function options(){let el=document.getElementById('smartResults');let a=list();el.innerHTML='<h3>Best pantry matches</h3><p class="muted">Ranked by pantry coverage after reserving ingredients for remaining planned meals. Check quantities before cooking.</p>'+a.map(r=>'<div class="tile"><img class="recipephoto" loading="lazy" src="'+photo(r)+'" alt="Illustrative food photo, not the exact dish"><strong>'+q(r.name)+'</strong> · '+score(r)+'% pantry coverage<div class="row"><button onclick="openRecipe('+JSON.stringify(r.id)+')">See recipe</button><button onclick="smartGather.replace('+JSON.stringify(r.id)+')">Use for dinner</button></div></div>').join('')}
 function replace(id){let pick=document.getElementById('swapSlot')?.value;let parts=pick?pick.split(':'):[String((new Date().getDay()+6)%7),'m3'];let index=Number(parts[0]);let slot=parts[1];state.week[index][slot]=id;save();renderAll();alert('Planned meal changed. Grocery totals updated; pantry quantities remain unchanged until you cook.');}
 function swap(){options();document.getElementById('smartResults').scrollIntoView({behavior:'smooth',block:'start'})}
 function consume(slot='m3'){let idx=(new Date().getDay()+6)%7,id=state.week[idx]?.[slot];if(!id)return alert('Pick today’s dinner first.');let mark=new Date().toDateString()+':'+slot+':'+id;if(db.history.some(h=>h.mark===mark))return alert('This meal was already deducted today.');let r=get(id);if(!confirm('Deduct ingredients for '+r.name+' (two servings) from pantry stock?'))return;for(let i of r.ingredients||[]){let k=alias(i.name);if(k in db.stock)db.stock[k]=Math.max(0,db.stock[k]-Number(i.quantity||0))}db.history.push({mark,recipe:r.name,time:new Date().toISOString()});saveDB();paint()}
