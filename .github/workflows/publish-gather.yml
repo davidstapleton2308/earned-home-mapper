@@ -10,6 +10,7 @@ on:
       - 'gather-updates/smart-pantry-v07.js'
       - 'gather-updates/shopping-guide-v08.js'
       - 'gather-updates/wizard-v09.js'
+      - 'gather-updates/smoke-test.cjs'
       - '.github/workflows/publish-gather.yml'
   workflow_dispatch:
 permissions:
@@ -40,7 +41,7 @@ jobs:
                   pieces.append(b''.join((root/'split'/f'{i:03d}-{j}.txt').read_bytes() for j in range(3)))
           html=b''.join(pieces).decode('utf-8')
           script=(root/'update-ui.js').read_text()
-          script=script.replace('APP_VERSION="0.9.1"','APP_VERSION="0.9.1"')
+          script=script.replace('APP_VERSION="0.9.2"','APP_VERSION="0.9.2"')
           if '</body>' not in html: raise SystemExit("Missing body")
           feature=(root/'feature-v061.js').read_text()
           smart=(root/'smart-pantry-v07.js').read_text()
@@ -50,10 +51,15 @@ jobs:
           if 'GATHER / YOUR PERSONAL CHEF' not in html or 'id="settings"' not in html: raise SystemExit("Invalid app")
           payload=html.encode('utf-8')
           (root/'index.html').write_bytes(payload)
-          feed={"version":"0.9.1","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
+          feed={"version":"0.9.2","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
           (root/'manifest.json').write_text(json.dumps(feed,indent=2)+'\n')
           print("Published HTML:",len(payload),"SHA256:",feed['sha256'])
           PY
+      - name: Test meal planner in real browser
+        run: |
+          npm install --no-save playwright@1.58.2
+          npx playwright install chromium
+          node gather-updates/smoke-test.cjs
       - name: Commit update feed
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
