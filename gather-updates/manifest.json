@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
+  "version": "0.7.0",
   "html_url": "https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html",
-  "sha256": "79bf4c8df7434ccf02914831d96b8573d9ea5f1efba3653fcf74b18efd7e83cd",
+  "sha256": "d8cc5f0d8932f558e4fd41b77a527a8a7079649591da127fd31438dfa118901a",
   "min_wrapper_version": "0.5.0"
 }
