@@ -12,6 +12,9 @@ if(!await page.getByText('How many people?',{exact:false}).count())throw Error('
 await page.evaluate(()=>gWizard9.next());
 if(!await page.getByText('Pick Myself',{exact:false}).count())throw Error('Mode missing');
 await page.evaluate(()=>gWizard9.mode('manual'));
+await page.locator('#gWizard9 .recipe img').first().waitFor({state:'visible'});
+const photoOk=await page.locator('#gWizard9 .recipe img').first().evaluate(img=>img.complete&&img.naturalWidth>0);
+if(!photoOk)throw Error('Recipe photo failed to load');
 const before=await page.locator('#gWizard9 .steps').innerText();
 let ids=await page.evaluate(()=>recipes().filter(r=>r.status==='keep'&&r.category==='Meal 2').slice(0,1).map(r=>r.id));
 if(!ids.length)throw Error('No recipes');
