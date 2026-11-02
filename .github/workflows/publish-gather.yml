@@ -52,7 +52,7 @@ jobs:
           html=html.replace('function renderPlan(){originalPlan();','function renderPlanEnhanced(){originalPlan();')
           html=html.replace('originalRenderAll();renderPlan();renderShopping()','originalRenderAll();renderPlanEnhanced();renderShopping()')
           script=(root/'update-ui.js').read_text()
-          script=script.replace('APP_VERSION="1.2.0"','APP_VERSION="1.2.0"')
+          script=script.replace('APP_VERSION="1.2.1"','APP_VERSION="1.2.1"')
           if '</body>' not in html: raise SystemExit("Missing body")
           feature=(root/'feature-v061.js').read_text()
           smart=(root/'smart-pantry-v07.js').read_text()
@@ -102,7 +102,7 @@ jobs:
           if len(photo_map)!=len(source_map): raise RuntimeError("Incomplete photo map")
           payload=html.encode('utf-8')
           (root/'index.html').write_bytes(payload)
-          feed={"version":"1.2.0","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
+          feed={"version":"1.2.1","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
           (root/'manifest.json').write_text(json.dumps(feed,indent=2)+'\n')
           print("Published HTML:",len(payload),"SHA256:",feed['sha256'])
           PY
