@@ -1,0 +1,1000 @@
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "crushed tomatoes",
+          "quantity": 170,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 65,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 580,
+        "protein_g": 44,
+        "carbs_g": 41,
+        "fat_g": 25,
+        "fiber_g": 1.1,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Chicken Tikka Rice Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Crispy Chicken Katsu Bowl",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "cabbage",
+        "avocado",
+        "cucumber"
+      ],
+      "sauce": "katsu",
+      "style": "bowl",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R030",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "ketchup",
+          "quantity": 40,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "Worcestershire sauce",
+          "quantity": 15,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 55,
+          "unit": "g",
+          "group": "coating",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 610,
+        "protein_g": 41,
+        "carbs_g": 41,
+        "fat_g": 31,
+        "fiber_g": 4.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Crispy Chicken Katsu Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Japanese Yakitori Chicken Bowl",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "broccoli",
+        "cucumber",
+        "scallion"
+      ],
+      "sauce": "yakitori",
+      "style": "bowl",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R031",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "quantity": 160,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "honey",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 580,
+        "protein_g": 42,
+        "carbs_g": 46,
+        "fat_g": 24,
+        "fiber_g": 3.1,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Japanese Yakitori Chicken Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Chicken Caesar Pasta Bowl",
+      "protein": "chicken",
+      "base": "pasta",
+      "vegs": [
+        "romaine",
+        "tomato",
+        "parmesan"
+      ],
+      "sauce": "caesar",
+      "style": "pasta",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R032",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked whole-wheat pasta",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "romaine",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "Caesar dressing",
+          "quantity": 60,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 10,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Bring salted water to a boil; cook pasta/noodles to package directions; reserve 120 mL cooking water.",
+        "Season meat and sauté in olive/avocado oil over medium-high heat until cooked (poultry 165°F, fish 145°F, shrimp opaque). Remove briefly.",
+        "Sauté garlic and chopped vegetables, then add the measured sauce components; simmer gently 2–4 minutes.",
+        "Toss pasta and meat through the sauce, loosening with reserved pasta water; add tender greens at the end.",
+        "Split between two bowls, finish with herbs, lemon or Parmesan as listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 610,
+        "protein_g": 48,
+        "carbs_g": 38,
+        "fat_g": 28,
+        "fiber_g": 1.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Chicken Caesar Pasta Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "pasta",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Crispy Salmon & Potato Bowl",
+      "protein": "salmon",
+      "base": "potato",
+      "vegs": [
+        "avocado",
+        "cucumber",
+        "scallion"
+      ],
+      "sauce": "lemon yogurt",
+      "style": "bowl",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R033",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 720,
+        "protein_g": 46,
+        "carbs_g": 50,
+        "fat_g": 37,
+        "fiber_g": 3.8,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Crispy Salmon & Potato Bowl plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "salmon",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Mexican Street Corn Chicken Tacos",
+      "protein": "chicken",
+      "base": "tortilla",
+      "vegs": [
+        "corn",
+        "cabbage",
+        "avocado",
+        "cilantro"
+      ],
+      "sauce": "lime crema",
+      "style": "tacos",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R034",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "corn",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 700,
+        "protein_g": 49,
+        "carbs_g": 51,
+        "fat_g": 34,
+        "fiber_g": 5.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Mexican Street Corn Chicken Tacos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Thin-Crust Chicken Bacon Ranch Pizza",
+      "protein": "chicken",
+      "base": "pizza",
+      "vegs": [
+        "bacon",
+        "mozzarella",
+        "tomato",
+        "onion"
+      ],
+      "sauce": "ranch",
+      "style": "pizza",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R035",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "thin pizza crust",
+          "quantity": 180,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "bacon",
+          "quantity": 35,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "mozzarella",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "ranch seasoning",
+          "quantity": 5,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 450°F and prepare all vegetables and toppings.",
+        "Cut and season meat, cook separately until chicken reaches 165°F (or other safe doneness).",
+        "Lay out two thin crusts/flatbreads; spread sauce, then add cooked meat, vegetables and cheeses.",
+        "Bake on a hot tray or stone until crust is crisp and cheese melts, about 8–13 minutes depending on thickness.",
+        "Finish with fresh avocado, herbs or cold yogurt sauce after baking; slice and serve."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 810,
+        "protein_g": 59,
+        "carbs_g": 54,
+        "fat_g": 38,
+        "fiber_g": 1.4,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Thin-Crust Chicken Bacon Ranch Pizza plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "pizza",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic Steak & Loaded Crispy Potato",
+      "protein": "steak",
+      "base": "potato",
+      "vegs": [
+        "avocado",
+        "scallion",
+        "tomato"
+      ],
+      "sauce": "garlic yogurt",
+      "style": "potato",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R036",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": 12,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
