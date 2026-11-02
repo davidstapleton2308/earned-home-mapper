@@ -1,0 +1,340 @@
+e": "zucchini",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "kimchi",
+          "quantity": 70,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "honey",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": 12,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 670,
+        "protein_g": 49,
+        "carbs_g": 48,
+        "fat_g": 31,
+        "fiber_g": 3.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Korean BBQ Beef & Crispy Rice Skillet plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "steak",
+        "skillet",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Creamy Chipotle Chicken Enchilada Skillet",
+      "protein": "chicken",
+      "base": "tortilla",
+      "vegs": [
+        "black beans",
+        "corn",
+        "avocado",
+        "cilantro",
+        "cheddar"
+      ],
+      "sauce": "chipotle tomato",
+      "style": "skillet",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R118",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "black beans",
+          "quantity": 130,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "corn",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "crushed tomatoes",
+          "quantity": 170,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "chipotle peppers",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 870,
+        "protein_g": 56,
+        "carbs_g": 67,
+        "fat_g": 43,
+        "fiber_g": 9.1,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Creamy Chipotle Chicken Enchilada Skillet plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "skillet",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Half Shell–Style Seafood-Stuffed Redfish",
+      "protein": "redfish",
+      "base": "potato",
+      "vegs": [
+        "crab",
+        "shrimp",
+        "asparagus",
+        "parmesan"
+      ],
+      "sauce": "orleans cream",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R119",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "redfish fillets",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "crab",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "asparagus",
+          "quantity": 150,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "half-and-half",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 35,
+   
