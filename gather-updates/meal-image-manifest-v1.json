@@ -1,0 +1,1088 @@
+{
+  "schema_version": 1,
+  "version": "1.0",
+  "approved_count": 135,
+  "note": "The images associated with 13 IDs are prepared in a separate downloadable asset pack, but not yet deployed to this public repository. All other IDs require unique, recipe-specific photography.",
+  "recipes": [
+    {
+      "recipe_id": "DRINK001",
+      "display_title": "Daily Tropical Citrus Nutrition Smoothie",
+      "category": "Daily Drink",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R001",
+      "display_title": "Steak, Egg & Avocado Plate",
+      "category": "Meal 2",
+      "image_filename": "r001-steak-egg-avocado-plate.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R002",
+      "display_title": "Chicken Shawarma Avocado Bowl",
+      "category": "Meal 2",
+      "image_filename": "r002-chicken-shawarma-avocado-bowl.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R003",
+      "display_title": "Chili-Lime Chicken Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R004",
+      "display_title": "Salmon Sushi Bowl",
+      "category": "Meal 2",
+      "image_filename": "r004-salmon-sushi-bowl.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R005",
+      "display_title": "Korean Beef & Egg Bowl",
+      "category": "Meal 2",
+      "image_filename": "r005-korean-beef-egg-bowl.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R006",
+      "display_title": "Crispy Chicken & Avocado Quesadilla",
+      "category": "Meal 2",
+      "image_filename": "r006-crispy-chicken-avocado-quesadilla.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R007",
+      "display_title": "Avocado Smash Burger",
+      "category": "Meal 2",
+      "image_filename": "r007-avocado-smash-burger.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R008",
+      "display_title": "Greek Chicken Pita",
+      "category": "Meal 2",
+      "image_filename": "r008-greek-chicken-pita.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R009",
+      "display_title": "Chicken Caesar Salad Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R010",
+      "display_title": "Cajun Chicken & Charred Corn Bowl",
+      "category": "Meal 2",
+      "image_filename": "r010-cajun-chicken-charred-corn-bowl.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R011",
+      "display_title": "Spicy Korean Chicken Bowl",
+      "category": "Meal 2",
+      "image_filename": "r011-spicy-korean-chicken-bowl.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R012",
+      "display_title": "Orange Chicken",
+      "category": "Meal 2",
+      "image_filename": "r012-orange-chicken.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R013",
+      "display_title": "General Tso's Chicken",
+      "category": "Meal 2",
+      "image_filename": "r013-general-tso-s-chicken.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R014",
+      "display_title": "Steak & Avocado Tacos",
+      "category": "Meal 2",
+      "image_filename": "r014-steak-avocado-tacos.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R015",
+      "display_title": "Chicken Bacon Ranch Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R016",
+      "display_title": "Steak & Hummus Power Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R017",
+      "display_title": "Loaded Beef Burrito Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R018",
+      "display_title": "Teriyaki Salmon & Avocado Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R019",
+      "display_title": "Chicken Pesto Pasta Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R020",
+      "display_title": "Mediterranean Beef Kofta Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R021",
+      "display_title": "Sizzling Chicken Fajita Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R022",
+      "display_title": "Bang Bang Salmon Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R023",
+      "display_title": "Honey-Garlic Chicken Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R024",
+      "display_title": "Greek Chicken Gyros",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R025",
+      "display_title": "Crispy Buffalo Chicken Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R026",
+      "display_title": "Sesame-Ginger Salmon Noodle Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R027",
+      "display_title": "Chicken Caprese Melt",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R028",
+      "display_title": "Cajun Salmon & Avocado Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R029",
+      "display_title": "Chicken Tikka Rice Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R030",
+      "display_title": "Crispy Chicken Katsu Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R031",
+      "display_title": "Japanese Yakitori Chicken Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R032",
+      "display_title": "Chicken Caesar Pasta Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R033",
+      "display_title": "Crispy Salmon & Potato Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R034",
+      "display_title": "Mexican Street Corn Chicken Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R035",
+      "display_title": "Thin-Crust Chicken Bacon Ranch Pizza",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R036",
+      "display_title": "Garlic Steak & Loaded Crispy Potato",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R037",
+      "display_title": "Crispy Salmon Sushi Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R038",
+      "display_title": "Mediterranean Chicken Flatbread",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R039",
+      "display_title": "Korean BBQ Beef Crunch Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R040",
+      "display_title": "Buffalo Chicken Loaded Potato",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R041",
+      "display_title": "Chicken Caesar Crunch Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R042",
+      "display_title": "Chicken Philly Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R043",
+      "display_title": "Lemon-Garlic Salmon Wrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R044",
+      "display_title": "Crispy Garlic-Parmesan Chicken Sandwich",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R045",
+      "display_title": "Cajun Salmon Street Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R046",
+      "display_title": "Steak Chimichurri & Avocado Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R047",
+      "display_title": "Crispy Korean Chicken Bao Buns",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R048",
+      "display_title": "Steak & Avocado Chimichurri Flatbread",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R049",
+      "display_title": "Cajun Fish & Crispy Potato Bowl",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R050",
+      "display_title": "Spicy Chicken Banh Mi",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R051",
+      "display_title": "Crispy Salmon Rice Paper Rolls",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R052",
+      "display_title": "Greek Chicken Crunchwrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R053",
+      "display_title": "Crispy Chicken Smash Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R054",
+      "display_title": "Garlic Steak & Crispy Rice Lettuce Cups",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R055",
+      "display_title": "Cajun Fish Po' Boy",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R056",
+      "display_title": "Crispy Chicken Shawarma Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R057",
+      "display_title": "Spicy Salmon Crispy Rice Bites",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R058",
+      "display_title": "Steak & Roasted Corn Chimichurri Sandwich",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R059",
+      "display_title": "Salmon Teriyaki Onigiri Plate",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R060",
+      "display_title": "Loaded Steak & Avocado Nachos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R061",
+      "display_title": "Crispy Salmon Sushi Burrito",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R062",
+      "display_title": "Chicken Al Pastor Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R063",
+      "display_title": "Garlic Steak & Whipped Feta Pita",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R064",
+      "display_title": "Cajun Chicken & Avocado Pressed Sandwich",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R065",
+      "display_title": "Garlic Shrimp & Avocado Mediterranean Pita",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R066",
+      "display_title": "Crispy Beef Birria Quesatacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R067",
+      "display_title": "Crispy Chicken Pesto & Mozzarella Panini",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R068",
+      "display_title": "Spicy Korean Beef Noodle Stir-Fry",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R069",
+      "display_title": "Cajun Salmon & Charred Corn Stuffed Sweet Potatoes",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R070",
+      "display_title": "Crispy Cajun Chicken & Avocado Sliders",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R071",
+      "display_title": "Spicy Salmon Sushi Nachos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R072",
+      "display_title": "Garlic Steak & Crispy Parmesan Potato Tacos",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R073",
+      "display_title": "Korean Sweet-Chili Chicken Crunchwrap",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R074",
+      "display_title": "Mediterranean Chicken & Crispy Chickpea Plate",
+      "category": "Meal 2",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R075",
+      "display_title": "Blackened Salmon Dinner",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R076",
+      "display_title": "Garlic Steak & Crispy Potatoes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R077",
+      "display_title": "Chicken & Sausage Jambalaya",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R078",
+      "display_title": "Chicken Shawarma Platter",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R079",
+      "display_title": "Korean Steak Bibimbap",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R080",
+      "display_title": "Beef & Black Bean Chili",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R081",
+      "display_title": "Miso-Ginger Salmon",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R082",
+      "display_title": "Fish Tacos",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R083",
+      "display_title": "Cottage-Cheese Beef Lasagna",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R084",
+      "display_title": "Slow-Cooked Beef Tacos",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R085",
+      "display_title": "Mediterranean Salmon Grain Bowl",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R086",
+      "display_title": "Chicken Pho",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R087",
+      "display_title": "Slow-Braised Beef & Garlic Potatoes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R088",
+      "display_title": "Korean Bulgogi Steak Lettuce Wraps",
+      "category": "Meal 3",
+      "image_filename": "r088-korean-bulgogi-steak-lettuce-wraps.jpg",
+      "image_status": "prepared_not_deployed",
+      "notes": "Unique generated illustration prepared for visual review"
+    },
+    {
+      "recipe_id": "R089",
+      "display_title": "Lemon-Parmesan Crusted Salmon",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R090",
+      "display_title": "Smoky Chicken Tinga Tostadas",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R091",
+      "display_title": "Spicy Thai Basil Beef",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R092",
+      "display_title": "Loaded Chicken Tortilla Soup",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R093",
+      "display_title": "Garlic Beef Udon",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R094",
+      "display_title": "Chicken Enchiladas Verdes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R095",
+      "display_title": "Half Shell–Style Snapper Au Gratin / Orleans",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R096",
+      "display_title": "Creamy Cajun Chicken & Sausage over Rice",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R097",
+      "display_title": "Honey-Soy Glazed Salmon",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R098",
+      "display_title": "Crispy Chicken Birria Tacos",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R099",
+      "display_title": "Crispy Orange Chicken Dinner",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R100",
+      "display_title": "Garlic-Parmesan Crusted Chicken",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R101",
+      "display_title": "Salmon & Avocado Power Bowl",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R102",
+      "display_title": "Spicy Basil Chicken Fried Rice",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R103",
+      "display_title": "Creamy Cajun Salmon Pasta",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R104",
+      "display_title": "Thai Coconut Curry Chicken",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R105",
+      "display_title": "Spicy Korean Chicken Ramen",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R106",
+      "display_title": "Mediterranean Sheet-Pan Chicken",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R107",
+      "display_title": "Creamy Tuscan Garlic Chicken",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R108",
+      "display_title": "Gulf Redfish with Crawfish Sauce",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R109",
+      "display_title": "Chicken & Sausage Gumbo",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R110",
+      "display_title": "Crispy Gulf Fish Sandwiches",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R111",
+      "display_title": "Steak Fajita Crunch Quesadillas",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R112",
+      "display_title": "Shrimp Florentine Pasta",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R113",
+      "display_title": "Garlic-Butter Salmon & Crispy Potatoes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R114",
+      "display_title": "Creamy Garlic Chicken & Gnocchi",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R115",
+      "display_title": "Crab-Parmesan Crusted Gulf Fish",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R116",
+      "display_title": "Cajun Seafood-Stuffed Salmon",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R117",
+      "display_title": "Korean BBQ Beef & Crispy Rice Skillet",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R118",
+      "display_title": "Creamy Chipotle Chicken Enchilada Skillet",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R119",
+      "display_title": "Half Shell–Style Seafood-Stuffed Redfish",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R120",
+      "display_title": "Korean Crispy Chicken & Kimchi Fried Rice",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R121",
+      "display_title": "Creamy Cajun Chicken & Sausage Stuffed Potatoes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R122",
+      "display_title": "Cajun Chicken & Sausage Dirty Rice",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R123",
+      "display_title": "Creamy Pesto Chicken & Sun-Dried Tomato Pasta",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R124",
+      "display_title": "Gulf Snapper with Lemon-Crab Cream Sauce",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R125",
+      "display_title": "Crispy Chicken Schnitzel & Warm German Potato Salad",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R126",
+      "display_title": "Steakhouse Sirloin & Roasted Vegetable Platter",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R127",
+      "display_title": "Chicken Parmesan Meatballs & Creamy Tomato Orzo",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R128",
+      "display_title": "Smoky Chipotle Beef & Sweet Potato Skillet",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R129",
+      "display_title": "Crispy Chicken & Spinach Alfredo Lasagna Rolls",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R130",
+      "display_title": "Gulf Seafood Garlic-Parmesan Stuffed Potatoes",
+      "category": "Meal 3",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R131",
+      "display_title": "Garlic-Parmesan Chargrilled Oysters",
+      "category": "Oyster & Seafood",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R132",
+      "display_title": "Spicy Orleans Oysters",
+      "category": "Oyster & Seafood",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R133",
+      "display_title": "Oysters Au Gratin",
+      "category": "Oyster & Seafood",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    },
+    {
+      "recipe_id": "R134",
+      "display_title": "Cajun Shrimp & Guacamole Plate",
+      "category": "Oyster & Seafood",
+      "image_filename": null,
+      "image_status": "missing",
+      "notes": "No image mapped. Do not use category stock images."
+    }
+  ]
+}
