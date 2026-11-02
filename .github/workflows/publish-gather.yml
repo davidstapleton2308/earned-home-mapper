@@ -53,7 +53,7 @@ jobs:
           shopping=(root/'shopping-guide-v08.js').read_text()
           wizard=(root/'wizard-v09.js').read_text()
           diagnostics=(root/'diagnostics-v097.js').read_text()
-          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script><script>'+wizard+'</script></body>')
+          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script><script>'+wizard+'</script><script>'+diagnostics+'</script></body>')
           if 'GATHER / YOUR PERSONAL CHEF' not in html or 'id="settings"' not in html: raise SystemExit("Invalid app")
           # Embed category food photos so the iPhone does not need a network image request.
           import re,base64,urllib.request
