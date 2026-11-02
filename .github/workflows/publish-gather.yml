@@ -11,6 +11,7 @@ on:
       - 'gather-updates/shopping-guide-v08.js'
       - 'gather-updates/wizard-v09.js'
       - 'gather-updates/diagnostics-v097.js'
+      - 'gather-updates/clean-shell-v10.js'
       - 'gather-updates/smoke-test.cjs'
       - '.github/workflows/publish-gather.yml'
   workflow_dispatch:
@@ -28,6 +29,7 @@ jobs:
           node --check gather-updates/shopping-guide-v08.js
           node --check gather-updates/wizard-v09.js
           node --check gather-updates/diagnostics-v097.js
+          node --check gather-updates/clean-shell-v10.js
           node --check gather-updates/update-ui.js
       - name: Assemble and validate update
         run: |
@@ -46,14 +48,15 @@ jobs:
           html=html.replace('function renderPlan(){originalPlan();','function renderPlanEnhanced(){originalPlan();')
           html=html.replace('originalRenderAll();renderPlan();renderShopping()','originalRenderAll();renderPlanEnhanced();renderShopping()')
           script=(root/'update-ui.js').read_text()
-          script=script.replace('APP_VERSION="0.9.8"','APP_VERSION="0.9.8"')
+          script=script.replace('APP_VERSION="1.0.0"','APP_VERSION="1.0.0"')
           if '</body>' not in html: raise SystemExit("Missing body")
           feature=(root/'feature-v061.js').read_text()
           smart=(root/'smart-pantry-v07.js').read_text()
           shopping=(root/'shopping-guide-v08.js').read_text()
           wizard=(root/'wizard-v09.js').read_text()
           diagnostics=(root/'diagnostics-v097.js').read_text()
-          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script><script>'+wizard+'</script><script>'+diagnostics+'</script></body>')
+          clean=(root/'clean-shell-v10.js').read_text()
+          html=html.replace('</body>','<script>'+script+'</script><script>'+feature+'</script><script>'+smart+'</script><script>'+shopping+'</script><script>'+wizard+'</script><script>'+diagnostics+'</script><script>'+clean+'</script></body>')
           if 'GATHER / YOUR PERSONAL CHEF' not in html or 'id="settings"' not in html: raise SystemExit("Invalid app")
           # Embed category food photos so the iPhone does not need a network image request.
           import re,base64,urllib.request
@@ -71,7 +74,7 @@ jobs:
                   print('Unable to embed photo:',image_url,str(exc))
           payload=html.encode('utf-8')
           (root/'index.html').write_bytes(payload)
-          feed={"version":"0.9.8","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
+          feed={"version":"1.0.0","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
           (root/'manifest.json').write_text(json.dumps(feed,indent=2)+'\n')
           print("Published HTML:",len(payload),"SHA256:",feed['sha256'])
           PY
