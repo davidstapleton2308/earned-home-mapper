@@ -24,7 +24,30 @@ function options(){let el=document.getElementById('smartResults');let a=list();e
 function replace(id){let index=(new Date().getDay()+6)%7;state.week[index].m3=id;save();renderAll();alert('Today’s dinner changed. Review your refreshed grocery list; your pantry inventory was not automatically deducted.');}
 function swap(){options();document.getElementById('smartResults').scrollIntoView({behavior:'smooth',block:'start'})}
 function consume(){let idx=(new Date().getDay()+6)%7,id=state.week[idx]?.m3;if(!id)return alert('Pick today’s dinner first.');let mark=new Date().toDateString()+':'+id;if(db.history.some(h=>h.mark===mark))return alert('This meal was already deducted today.');let r=get(id);if(!confirm('Deduct ingredients for '+r.name+' (two servings) from pantry stock?'))return;for(let i of r.ingredients||[]){let k=alias(i.name);if(k in db.stock)db.stock[k]=Math.max(0,db.stock[k]-Number(i.quantity||0))}db.history.push({mark,recipe:r.name,time:new Date().toISOString()});saveDB();paint()}
-function receipt(){let file=document.getElementById('receiptFile').files?.[0],e=document.getElementById('receiptStatus');if(!file)return alert('Choose a receipt photo first.');db.receipts.push({name:file.name,time:new Date().toISOString(),status:'needs_manual_review'});saveDB();e.textContent='Receipt photo selected. Automatic extraction is not available yet; enter purchased ingredient quantities above. The image is not uploaded.'}
-window.smartGather={show,paint,stock,change,mood,options,replace,swap,consume,receipt};
+async function receipt(){
+ let file=document.getElementById('receiptFile').files?.[0],e=document.getElementById('receiptStatus');
+ if(!file)return alert('Choose a receipt photo first.');
+ e.textContent='Reading receipt on your phone. Text recognition may take a moment and requires internet for the OCR library.';
+ try{
+  if(!window.Tesseract){
+   await new Promise((resolve,reject)=>{let sc=document.createElement('script');sc.src='https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js';sc.onload=resolve;sc.onerror=()=>reject(Error('OCR library unavailable'));document.head.appendChild(sc)})
+  }
+  let output=await Tesseract.recognize(file,'eng');
+  let lines=output.data.text.split(/\r?\n/).map(x=>x.trim()).filter(x=>x.length>2).slice(0,80);
+  db.receipts.push({name:file.name,time:new Date().toISOString(),status:'reviewed_by_user_required',lineCount:lines.length});saveDB();
+  let panel=document.createElement('div');panel.className='tile';panel.innerHTML='<h3>Review recognized receipt lines</h3><p class="muted">Only add food items you recognize. Receipt prices and abbreviations cannot reliably establish weight. Enter the actual grams from the package.</p><div id="recognizedLines"></div>';
+  e.replaceWith(panel);
+  let target=panel.querySelector('#recognizedLines');
+  target.innerHTML=lines.map((l,i)=>'<div class="row" style="border-bottom:1px solid #e5e9e1;padding:7px 0"><input type="text" aria-label="Item name" id="receiptItem'+i+'" value="'+q(l)+'"><input type="number" min="0" style="max-width:90px" placeholder="g" id="receiptGrams'+i+'"><button onclick="smartGather.addReceiptLine('+i+')">Add</button></div>').join('')||'<p>No recognizable lines. Enter items manually.</p>';
+ }catch(err){e.textContent='Could not read this receipt automatically. Your photo remains on your phone. Enter purchased items manually above.'}
+}
+function addReceiptLine(i){
+ let name=document.getElementById('receiptItem'+i)?.value.trim(),amount=Number(document.getElementById('receiptGrams'+i)?.value);
+ if(!name||!Number.isFinite(amount)||amount<=0)return alert('Confirm the food name and grams before adding.');
+ let k=alias(name);db.stock[k]=(db.stock[k]||0)+amount;saveDB();
+ document.getElementById('receiptItem'+i).disabled=true;document.getElementById('receiptGrams'+i).disabled=true;
+ alert('Added '+amount+' g of '+name+' to pantry.');}
+
+window.smartGather={show,paint,stock,change,mood,options,replace,swap,consume,receipt,addReceiptLine};
 let w=document.getElementById('settings');w?.insertAdjacentHTML('afterbegin','<div class="workbox"><h3>Smart inventory</h3><p class="muted">Track groceries, get pantry-matched recipe options, and deduct cooked meals.</p><button class="btn" onclick="smartGather.show()">Open smart pantry</button></div>');
 })();
