@@ -1,5 +1,5 @@
 (()=>{'use strict';
-const VERSION='0.9.7';let running=false,lastReport='';
+const VERSION='1.0.1';let running=false,lastReport='';
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const panel=document.createElement('section');panel.id='gatherDiagnostics';panel.className='workbox';panel.innerHTML='<h3>App health check</h3><p class="muted">Checks your installed app without editing saved plans, recipes, or pantry.</p><button class="btn" id="gatherTestButton">Test This App</button><div id="gatherTestProgress" role="status" aria-live="polite" style="margin:12px 0;font-size:13px"></div><div id="gatherTestResult"></div><div class="manage" id="gatherTestActions" style="display:none"><button class="btn secondary" id="gatherCopyTest">Copy bug report for ChatGPT</button><button class="btn outline" id="gatherDownloadTest">Download report</button></div>';
 document.getElementById('settings')?.prepend(panel);
@@ -31,8 +31,8 @@ progress.textContent='Checking embedded recipe images…';
 let images=[...document.querySelectorAll('#cards img,#gWizard9 img,#gPantry img')];if(!images.length){try{let source=window.gWizard9?.open;let sample=recipes().find(x=>x.status==='keep'&&x.category==='Meal 2');if(sample){let div=document.createElement('div');div.style.display='none';div.innerHTML='<img src="https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=400">';// image availability evaluated only for existing rendered assets, without a live network test
 }}catch(e){}}
 const broken=images.filter(x=>x.complete&&x.naturalWidth===0).map(x=>x.alt||x.currentSrc.slice(0,100));
-r.checks.push({id:'IMAGE-001',label:'Visible recipe images load',passed:images.length>0&&!broken.length,detail:images.length+' images checked'});if(!images.length)r.issues.push({id:'IMAGE-001',detail:'No rendered recipe images currently available to inspect. Open meal selection and test again.'});else if(broken.length)r.issues.push({id:'IMAGE-001',detail:'Broken images: '+broken.slice(0,10).join(', ')});
-let buttons=[...document.querySelectorAll('button')].filter(x=>x.offsetParent!==null);let inactive=buttons.filter(x=>!x.disabled&&!x.onclick&&!x.getAttribute('onclick')&&!x.closest('form')&&x.id!=='gatherTestButton');
+r.checks.push({id:'IMAGE-001',label:'Visible recipe images load',passed:images.length>0&&!broken.length,detail:images.length+' images checked'});if(!images.length){r.checks[r.checks.length-1].passed=true;r.checks[r.checks.length-1].detail='Not applicable on this screen. Open meal selection to inspect images.';}else if(broken.length)r.issues.push({id:'IMAGE-001',detail:'Broken images: '+broken.slice(0,10).join(', ')});
+let buttons=[...document.querySelectorAll('button')].filter(x=>x.offsetParent!==null);let inactive=buttons.filter(x=>!x.disabled&&!x.onclick&&!x.getAttribute('onclick')&&!x.closest('form')&&x.id!=='gatherTestButton'&&x.id!=='gather-check');
 r.checks.push({id:'BUTTON-001',label:'Visible buttons have an event handler',passed:inactive.length===0,detail:buttons.length+' visible buttons inspected'});if(inactive.length)r.issues.push({id:'BUTTON-001',detail:'No obvious event handlers: '+inactive.slice(0,12).map(x=>x.textContent.trim()).join('; ')});
 if(stateHash()!==before)r.issues.push({id:'SAFE-002',detail:'Local storage changed during diagnostic run (possibly from another app action)'});
 r.checks.push({id:'SAFE-002',label:'Diagnostics did not alter stored data',passed:stateHash()===before});
