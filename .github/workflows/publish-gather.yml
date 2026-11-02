@@ -13,6 +13,7 @@ on:
       - 'gather-updates/diagnostics-v097.js'
       - 'gather-updates/clean-shell-v10.js'
       - 'gather-updates/cooking-guide-v11.js'
+      - 'gather-updates/photo-source-map.json'
       - 'gather-updates/smoke-test.cjs'
       - '.github/workflows/publish-gather.yml'
   workflow_dispatch:
@@ -35,6 +36,7 @@ jobs:
           node --check gather-updates/update-ui.js
       - name: Assemble and validate update
         run: |
+          python3 -m pip install --quiet pillow
           python3 - <<'PY'
           from pathlib import Path
           import hashlib,json
@@ -50,7 +52,7 @@ jobs:
           html=html.replace('function renderPlan(){originalPlan();','function renderPlanEnhanced(){originalPlan();')
           html=html.replace('originalRenderAll();renderPlan();renderShopping()','originalRenderAll();renderPlanEnhanced();renderShopping()')
           script=(root/'update-ui.js').read_text()
-          script=script.replace('APP_VERSION="1.1.0"','APP_VERSION="1.1.0"')
+          script=script.replace('APP_VERSION="1.2.0"','APP_VERSION="1.2.0"')
           if '</body>' not in html: raise SystemExit("Missing body")
           feature=(root/'feature-v061.js').read_text()
           smart=(root/'smart-pantry-v07.js').read_text()
@@ -75,9 +77,32 @@ jobs:
                   print('Embedded photo',image_url[:65],len(image_bytes))
               except Exception as exc:
                   print('Unable to embed photo:',image_url,str(exc))
+          # Convert per-recipe photo URLs into compact offline JPEG assets embedded in the app.
+          from PIL import Image
+          from io import BytesIO
+          source_map=json.loads((root/'photo-source-map.json').read_text())
+          photo_map={}
+          for recipe_id,photo_url in source_map.items():
+              try:
+                  if not photo_url.startswith('https://d8j0ntlcm91z4.cloudfront.net/'):
+                      raise ValueError("Untrusted photo host")
+                  req=urllib.request.Request(photo_url,headers={'User-Agent':'GatherApp/1.2'})
+                  with urllib.request.urlopen(req,timeout=25) as response:
+                      raw=response.read(9000001)
+                  if len(raw)>9000000: raise ValueError("Image too large")
+                  im=Image.open(BytesIO(raw)).convert('RGB')
+                  im.thumbnail((440,330),Image.Resampling.LANCZOS)
+                  out=BytesIO();im.save(out,format='JPEG',quality=78,optimize=True)
+                  photo_map[recipe_id]='data:image/jpeg;base64,'+base64.b64encode(out.getvalue()).decode('ascii')
+                  print('Ready unique photo',recipe_id,len(out.getvalue()))
+              except Exception as exc:
+                  raise RuntimeError(f'Unable to embed {recipe_id} photo: {exc}')
+          bootstrap='window.GATHER_MEAL_PHOTOS='+json.dumps(photo_map,separators=(',',':'))+';'
+          html=html.replace('<script>'+clean+'</script>','<script>'+bootstrap+'</script><script>'+clean+'</script>')
+          if len(photo_map)!=len(source_map): raise RuntimeError("Incomplete photo map")
           payload=html.encode('utf-8')
           (root/'index.html').write_bytes(payload)
-          feed={"version":"1.1.0","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
+          feed={"version":"1.2.0","html_url":"https://raw.githubusercontent.com/davidstapleton2308/earned-home-mapper/main/gather-updates/index.html","sha256":hashlib.sha256(payload).hexdigest(),"min_wrapper_version":"0.5.0"}
           (root/'manifest.json').write_text(json.dumps(feed,indent=2)+'\n')
           print("Published HTML:",len(payload),"SHA256:",feed['sha256'])
           PY
