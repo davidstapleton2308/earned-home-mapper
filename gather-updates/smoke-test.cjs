@@ -1,0 +1,24 @@
+const {chromium}=require('playwright');
+(async()=>{
+const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+const page=await browser.newPage({viewport:{width:390,height:844}});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',e=>{if(e.type()==='error')errors.push(e.text())});
+await page.goto('file://'+process.cwd()+'/gather-updates/index.html',{waitUntil:'load'});
+await page.evaluate(()=>{localStorage.clear()});
+await page.reload({waitUntil:'load'});
+if(await page.locator('#gWizard9').count()!==1)throw Error('Wizard missing: '+errors.join('; '));
+await page.evaluate(()=>gWizard9.start());
+if(!await page.getByText('How many people?',{exact:false}).count())throw Error('Setup missing');
+await page.evaluate(()=>gWizard9.next());
+if(!await page.getByText('Pick Myself',{exact:false}).count())throw Error('Mode missing');
+await page.evaluate(()=>gWizard9.mode('manual'));
+const before=await page.locator('#gWizard9 .steps').innerText();
+let ids=await page.evaluate(()=>recipes().filter(r=>r.status==='keep'&&r.category==='Meal 2').slice(0,1).map(r=>r.id));
+if(!ids.length)throw Error('No recipes');
+await page.evaluate(id=>gWizard9.pick(id),ids[0]);
+const after=await page.locator('#gWizard9 .steps').innerText();
+if(before===after)throw Error('Tap failed to advance '+before);
+if(errors.length)throw Error('Errors: '+errors.join('; '));
+console.log('GATHER SMOKE PASS',before,'=>',after);
+await browser.close();
+})().catch(e=>{console.error('GATHER SMOKE FAIL',e);process.exit(1)});
