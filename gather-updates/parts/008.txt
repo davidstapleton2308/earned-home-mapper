@@ -1,0 +1,1000 @@
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 740,
+        "protein_g": 52,
+        "carbs_g": 42,
+        "fat_g": 40,
+        "fiber_g": 6.6,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Spicy Salmon Crispy Rice Bites plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "salmon",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Steak & Roasted Corn Chimichurri Sandwich",
+      "protein": "steak",
+      "base": "bread",
+      "vegs": [
+        "corn",
+        "avocado",
+        "arugula",
+        "tomato",
+        "provolone"
+      ],
+      "sauce": "chimichurri",
+      "style": "sandwich",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R058",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "quantity": 150,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "corn",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "arugula",
+          "quantity": 60,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "provolone",
+          "quantity": 40,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "fresh parsley",
+          "quantity": 30,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 890,
+        "protein_g": 53,
+        "carbs_g": 57,
+        "fat_g": 52,
+        "fiber_g": 5.4,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Steak & Roasted Corn Chimichurri Sandwich plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "steak",
+        "sandwich",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Salmon Teriyaki Onigiri Plate",
+      "protein": "salmon",
+      "base": "rice",
+      "vegs": [
+        "avocado",
+        "cucumber",
+        "edamame",
+        "nori"
+      ],
+      "sauce": "teriyaki",
+      "style": "bowl",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R059",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "edamame",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "nori",
+          "quantity": 4,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "honey",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Prepare starch and vegetables; combine the measured sauce ingredients.",
+        "Season and cook meat using a food thermometer (chicken 165°F; fish 145°F; shrimp opaque; ground beef 160°F; steak 145°F with 3-minute rest).",
+        "Cook starch according to its package or roast potatoes at 425°F until tender; sauté vegetables briefly so they retain texture.",
+        "Warm sauce gently, toss with meat and any cooked ingredients; assemble with crisp fresh toppings.",
+        "Divide into two equal servings, add avocado last and serve immediately."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 750,
+        "protein_g": 48,
+        "carbs_g": 49,
+        "fat_g": 39,
+        "fiber_g": 6.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Salmon Teriyaki Onigiri Plate plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "salmon",
+        "bowl",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Loaded Steak & Avocado Nachos",
+      "protein": "steak",
+      "base": "tortilla",
+      "vegs": [
+        "black beans",
+        "corn",
+        "avocado",
+        "tomato",
+        "cheddar"
+      ],
+      "sauce": "lime crema",
+      "style": "tacos",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R060",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 150,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "black beans",
+          "quantity": 130,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "corn",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 930,
+        "protein_g": 63,
+        "carbs_g": 70,
+        "fat_g": 45,
+        "fiber_g": 9.4,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Loaded Steak & Avocado Nachos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "steak",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Crispy Salmon Sushi Burrito",
+      "protein": "salmon",
+      "base": "nori",
+      "vegs": [
+        "rice",
+        "avocado",
+        "cucumber",
+        "carrot",
+        "scallion"
+      ],
+      "sauce": "spicy yogurt",
+      "style": "wrap",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R061",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked sushi rice with nori sheets",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "sriracha",
+          "quantity": 18,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 690,
+        "protein_g": 46,
+        "carbs_g": 42,
+        "fat_g": 37,
+        "fiber_g": 5.1,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Crispy Salmon Sushi Burrito plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "salmon",
+        "wrap",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Chicken Al Pastor Tacos",
+      "protein": "chicken",
+      "base": "tortilla",
+      "vegs": [
+        "pineapple",
+        "avocado",
+        "onion",
+        "cilantro"
+      ],
+      "sauce": "salsa verde",
+      "style": "tacos",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R062",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "pineapple",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "salsa verde",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 680,
+        "protein_g": 44,
+        "carbs_g": 51,
+        "fat_g": 34,
+        "fiber_g": 5.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Chicken Al Pastor Tacos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "chicken",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic Steak & Whipped Feta Pita",
+      "protein": "steak",
+      "base": "pita",
+      "vegs": [
+        "feta",
+        "cucumber",
+        "tomato",
+        "avocado",
+        "onion"
+      ],
+      "sauce": "lemon yogurt",
+      "style": "wrap",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R063",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "pita",
+          "quantity": 140,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "feta",
+          "quantity": 45,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 780,
+        "protein_g": 54,
+        "carbs_g": 51,
+        "fat_g": 41,
+        "fiber_g": 4.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Garlic Steak & Whipped Feta Pita plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 2",
+        "steak",
+        "wrap",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Cajun Chicken & Avocado Pressed Sandwich",
+      "protein": "chicken",
+      "base": "bread",
+      "vegs": [
+        "avocado",
+        "pepper jack",
+        "tomato",
+        "romaine"
+      ],
+      "sauce": "chipotle yogurt",
+      "style": "sandwich",
+      "category": "Meal 2",
+      "status": "keep",
+      "id": "R064",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "quantity": 150,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "pepper jack",
+          "quantity": 40,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "romaine",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "plain Greek yogurt",
+          "quantity": 90,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "chipotle peppers",
+          "quantity": 18,
