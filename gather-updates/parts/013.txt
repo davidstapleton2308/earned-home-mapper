@@ -1,0 +1,1000 @@
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Loaded Chicken Tortilla Soup plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "soup",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic Beef Udon",
+      "protein": "steak",
+      "base": "udon",
+      "vegs": [
+        "bok choy",
+        "scallion",
+        "ginger"
+      ],
+      "sauce": "ginger soy",
+      "style": "noodles",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R093",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "sirloin steak",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "udon",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "bok choy",
+          "quantity": 110,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": 16,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Bring salted water to a boil; cook pasta/noodles to package directions; reserve 120 mL cooking water.",
+        "Season meat and sauté in olive/avocado oil over medium-high heat until cooked (poultry 165°F, fish 145°F, shrimp opaque). Remove briefly.",
+        "Sauté garlic and chopped vegetables, then add the measured sauce components; simmer gently 2–4 minutes.",
+        "Toss pasta and meat through the sauce, loosening with reserved pasta water; add tender greens at the end.",
+        "Split between two bowls, finish with herbs, lemon or Parmesan as listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 460,
+        "protein_g": 40,
+        "carbs_g": 13,
+        "fat_g": 26,
+        "fiber_g": 1.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Garlic Beef Udon plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "steak",
+        "noodles",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Chicken Enchiladas Verdes",
+      "protein": "chicken",
+      "base": "tortilla",
+      "vegs": [
+        "black beans",
+        "avocado",
+        "cilantro",
+        "cheddar"
+      ],
+      "sauce": "salsa verde",
+      "style": "casserole",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R094",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "black beans",
+          "quantity": 130,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "salsa verde",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Heat oven to 375°F. Cook meat with garlic and onion until fully cooked (165°F for poultry; 160°F for ground beef).",
+        "Make the listed sauce and prepare starch/noodles as specified on package.",
+        "Layer or fill the noodles/tortillas with meat, vegetables, sauce and cheese in an oiled baking dish.",
+        "Cover and bake 20–25 minutes, uncover and bake another 8–12 minutes until bubbling and 165°F throughout.",
+        "Rest 5–10 minutes, add fresh herbs or avocado and serve."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 810,
+        "protein_g": 54,
+        "carbs_g": 54,
+        "fat_g": 42,
+        "fiber_g": 8.0,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Chicken Enchiladas Verdes plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 55,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "casserole",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Half Shell–Style Snapper Au Gratin / Orleans",
+      "protein": "snapper",
+      "base": "potato",
+      "vegs": [
+        "shrimp",
+        "crab",
+        "asparagus",
+        "parmesan"
+      ],
+      "sauce": "orleans cream",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R095",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "snapper fillets",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "crab",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "asparagus",
+          "quantity": 150,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "half-and-half",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 700,
+        "protein_g": 73,
+        "carbs_g": 46,
+        "fat_g": 23,
+        "fiber_g": 1.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Half Shell–Style Snapper Au Gratin / Orleans plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "snapper",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Creamy Cajun Chicken & Sausage over Rice",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "sausage",
+        "onion",
+        "celery",
+        "garlic"
+      ],
+      "sauce": "mushroom cream",
+      "style": "skillet",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R096",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "sausage",
+          "quantity": 120,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cream of mushroom soup",
+          "quantity": 210,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "quantity": 120,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "Cajun seasoning",
+          "quantity": 8,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 770,
+        "protein_g": 49,
+        "carbs_g": 50,
+        "fat_g": 39,
+        "fiber_g": 1.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Creamy Cajun Chicken & Sausage over Rice plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "skillet",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Honey-Soy Glazed Salmon",
+      "protein": "salmon",
+      "base": "potato",
+      "vegs": [
+        "green beans",
+        "scallion"
+      ],
+      "sauce": "honey soy",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R097",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "quantity": 360,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "quantity": 150,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "honey",
+          "quantity": 25,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 30,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 670,
+        "protein_g": 42,
+        "carbs_g": 58,
+        "fat_g": 30,
+        "fiber_g": 2.7,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Honey-Soy Glazed Salmon plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "salmon",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Crispy Chicken Birria Tacos",
+      "protein": "chicken",
+      "base": "tortilla",
+      "vegs": [
+        "cheddar",
+        "onion",
+        "cilantro"
+      ],
+      "sauce": "birria",
+      "style": "tacos",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R098",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "small corn or flour tortillas",
+          "quantity": 120,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "cheddar",
+          "quantity": 50,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "quantity": 20,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "beef broth",
+          "quantity": 240,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "dried guajillo chile",
+          "quantity": 18,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 55,
+          "unit": "g",
+          "group": "coating",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and slice the vegetables; whisk together sauce ingredients and chill.",
+        "Season and cook the meat in a hot skillet with oil, flipping as needed; use a thermometer (chicken 165°F; ground beef 160°F; fish 145°F; steak 145°F plus 3-minute rest).",
+        "Warm or toast bread, tortillas, buns or wraps; cook beans/rice if listed, and slice avocado just before assembly.",
+        "Fill with meat, fresh produce, toppings and sauce; if crispy, press or toast seam-side down 2–3 minutes per side over medium heat.",
+        "Divide evenly between two plates; serve promptly with any extra sauce on the side."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 730,
+        "protein_g": 49,
+        "carbs_g": 49,
+        "fat_g": 36,
+        "fiber_g": 1.1,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Crispy Chicken Birria Tacos plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 70,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "tacos",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Crispy Orange Chicken Dinner",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "broccoli",
+        "scallion"
+      ],
+      "sauce": "orange ginger",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R099",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "quantity": 160,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "orange juice",
+          "quantity": 100,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 30,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 55,
+          "unit": "g",
+          "group": "coating",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 580,
+        "protein_g": 43,
+        "carbs_g": 43,
+        "fat_g": 25,
+        "fiber_g": 2.9,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Crispy Orange Chicken Dinner plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Garlic-Parmesan Crusted Chicken",
+      "protein": "chicken",
+      "base": "potato",
+      "vegs": [
+        "green beans",
+        "parmesan"
+      ],
+      "sauce": "garlic yogurt",
+      "style": "plate",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R100",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "quantity": 150,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
