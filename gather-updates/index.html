@@ -20651,8 +20651,28 @@ window.gUS=function(quantity,unit,name){
  if(u!=='g'&&u!=='gram'&&u!=='grams')return rnd(q)+' '+unit;
  const meat=/chicken|beef|steak|pork|salmon|shrimp|fish|sausage|turkey|bacon|sirloin|ground meat|tuna|lamb|ribeye/.test(n);
  if(meat)return q>=300?rnd(q/453.592,2)+' lb ('+rnd(q/28.3495,1)+' oz)':rnd(q/28.3495,1)+' oz';
- const item=[[/\begg\b/,50,'egg'],[/\b(avocado)\b/,150,'avocado'],[/\b(lime)\b/,65,'lime'],[/\b(lemon)\b/,85,'lemon'],[/\b(jalapeño|jalapeno)\b/,15,'jalapeño'],[/\b(garlic cloves?)\b/,3,'clove'],[/\b(tortilla|bun|pita|wrap)s?\b/,45,'piece']];
- for(const [re,g,label] of item)if(re.test(n)&&q>=g*.8)return rnd(q/g,1)+' '+label+(q/g>=1.5?'s':'')+' (approx.)';
+ const item=[
+ [/\b(avocado|avocados|hass|haas)\b/,90,'Hass avocado'],
+ [/\b(eggs?|whole eggs?)\b/,50,'egg'],
+ [/\b(garlic|garlic cloves?)\b/,4,'garlic clove'],
+ [/\b(limes?)\b/,45,'lime'],
+ [/\b(lemons?)\b/,60,'lemon'],
+ [/\b(jalapeños?|jalapenos?)\b/,15,'jalapeño'],
+ [/\b(onions?|red onion|yellow onion|white onion)\b/,150,'onion'],
+ [/\b(bell peppers?)\b/,150,'bell pepper'],
+ [/\b(tomatoes?)\b/,120,'tomato'],
+ [/\b(cucumbers?|english cucumber)\b/,300,'English cucumber'],
+ [/\b(zucchini)\b/,180,'zucchini'],
+ [/\b(carrots?)\b/,70,'carrot'],
+ [/\b(potatoes?)\b/,170,'potato'],
+ [/\b(tortillas?|buns?|pitas?|wraps?)\b/,45,'piece']
+ ];
+ for(const [re,g,label] of item)if(re.test(n)){
+   const amount=q/g;
+   if(amount<=0)return '0 '+label;
+   const count=amount>=1.75?String(Math.ceil(amount)):frac(amount);
+   return count+' '+label+(amount>=1.75&&!/zucchini|piece$/.test(label)?'s':'')+' (approx.)';
+ }
  const density=[
  [/\b(oil|olive oil|avocado oil)\b/,216],[/\b(honey|syrup)\b/,340],
  [/\b(rice|quinoa)\b/,185],[/\b(flour)\b/,120],[/\b(sugar)\b/,200],
