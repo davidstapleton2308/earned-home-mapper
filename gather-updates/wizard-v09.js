@@ -22,9 +22,11 @@ function back(){if(w.position===0){w.step='setup'}else w.position--;put();draw()
 function finish(){let a=slots();for(let i=0;i<7;i++){state.week[i].m2='';state.week[i].m3=''}for(let [n,id] of Object.entries(w.choices)){let s=a[+n];if(!s)continue;let weekday=(s.date.getDay()+6)%7;state.week[weekday][s.kind]=id}state.activeDays=w.days;state.servings=w.people;state.workStart=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][new Date(w.start+'T12:00:00').getDay()];save();renderAll();w.step='done';put();draw()}
 function shopping(){gStore.next(1)}
 function today(){gUI.view('gToday')}
+const originalGroceries=buildGroceries;
+buildGroceries=function(){let ratio=(Number(state.servings)||2)/2;return originalGroceries().map(r=>{let quantity=r.quantity*ratio,owned=r.owned||0;return {...r,quantity,needed:Math.max(0,quantity-owned)}})};
 window.gWizard9={open,start,people:setPeople,days:setDays,startDate:setStart,meal,next,pick,advance,skip,back,shopping,today};
 window.addEventListener('error',e=>{try{localStorage.setItem('gather-last-ui-error',String(e.message))}catch{}});
 const style2=document.createElement('style');style2.textContent='nav.nav button[data-tab="gWizard9"]{display:none}';document.head.append(style2);
-const oldPlan=gStore.plan;gStore.plan=start;
+gStore.plan=start;
 document.querySelectorAll('button[onclick*="gUI.start()"]').forEach(b=>b.setAttribute('onclick','gWizard9.start()'));
 })();
