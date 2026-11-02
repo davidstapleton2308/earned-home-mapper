@@ -82,7 +82,7 @@ if(!await page.locator('#gPhotoEdit #gPhotoFile').isVisible())throw Error('Catal
 await page.evaluate(()=>gPhoto.close());
 await page.evaluate(()=>gClean.go('settings'));
 await page.evaluate(()=>gClean.go('catalog'));
-if(await page.locator('#gCatalogList .item').count()!==approvedCount)throw Error('Catalog lost rows after returning');
+await page.waitForFunction(expected=>document.querySelectorAll('#gCatalogList .item').length===expected,approvedCount,{timeout:10000});
 console.log('GATHER APPROVED CATALOG PASS',catalogCount);
 console.log('GATHER PHOTO EDITOR PASS');
 console.log('GATHER END TO END PASS');
