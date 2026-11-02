@@ -1,0 +1,336 @@
+       "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Preheat oven to 425°F. Dice potatoes or sweet potatoes, toss with half the oil and seasonings and spread on a tray.",
+        "Roast potatoes 25–35 minutes (sweet potato usually 22–30 minutes), turning once; cook remaining vegetables on a separate tray or add during the final 15 minutes.",
+        "Season the meat or fish; pan-sear or roast until safe internal temperature (poultry 165°F, fish 145°F, ground beef 160°F, whole steak 145°F + 3-minute rest).",
+        "Combine garlic and the specified sauce ingredients; heat creamy sauces gently without boiling hard.",
+        "Plate meat with potatoes, vegetables and avocado/herbs; spoon sauce over just before eating."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 700,
+        "protein_g": 73,
+        "carbs_g": 46,
+        "fat_g": 23,
+        "fiber_g": 1.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Half Shell–Style Seafood-Stuffed Redfish plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "redfish",
+        "plate",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Korean Crispy Chicken & Kimchi Fried Rice",
+      "protein": "chicken",
+      "base": "rice",
+      "vegs": [
+        "kimchi",
+        "egg",
+        "cabbage",
+        "carrot",
+        "scallion"
+      ],
+      "sauce": "gochujang",
+      "style": "skillet",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R120",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "cooked jasmine rice",
+          "quantity": 200,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "kimchi",
+          "quantity": 70,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "cabbage",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "gochujang",
+          "quantity": 35,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "low-sodium soy sauce",
+          "quantity": 20,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 55,
+          "unit": "g",
+          "group": "coating",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "Wash and dice vegetables; portion meat and prepare the measured sauce/base.",
+        "Brown meat with half the oil in a large skillet; chicken must eventually reach 165°F and ground beef 160°F.",
+        "Sauté aromatics and sturdier vegetables, add sauce/base and simmer 8–15 minutes, or longer until meat is tender.",
+        "Prepare rice or potatoes per package while the pan simmers; add delicate greens and toppings at the end.",
+        "Divide the stew or skillet mixture and starch between two servings; finish with fresh herbs and lime if listed."
+      ],
+      "nutrition_per_serving_estimate": {
+        "calories_kcal": 640,
+        "protein_g": 48,
+        "carbs_g": 43,
+        "fat_g": 29,
+        "fiber_g": 3.5,
+        "accuracy": "rough planning estimate, ±25–35% or more; NOT verified USDA-ingredient calculation",
+        "micronutrients": null
+      },
+      "image": {
+        "status": "not_licensed_or_verified",
+        "search_query": "Korean Crispy Chicken & Kimchi Fried Rice plated cooked food photography",
+        "url": null,
+        "attribution": null
+      },
+      "source_review_status": "author-designed untested draft, not copied from a rated recipe",
+      "time_minutes_estimate": 40,
+      "tags": [
+        "Meal 3",
+        "chicken",
+        "skillet",
+        "2 servings"
+      ],
+      "notes": "Use fresh produce, olive/avocado oil, no deep frying. Double-check cooking times against meat thickness.",
+      "essential_micronutrient_claim": "not calculated; food database linkage required",
+      "nutrition_verification": "draft_unverified",
+      "reviewed_for_safety": false,
+      "is_editable": true,
+      "picture_status": "placeholder_not_actual_recipe_photo"
+    },
+    {
+      "name": "Creamy Cajun Chicken & Sausage Stuffed Potatoes",
+      "protein": "chicken",
+      "base": "potato",
+      "vegs": [
+        "sausage",
+        "pepper",
+        "onion",
+        "scallion",
+        "parmesan"
+      ],
+      "sauce": "cajun cream",
+      "style": "potato",
+      "category": "Meal 3",
+      "status": "keep",
+      "id": "R121",
+      "servings": 2,
+      "ingredient_units": "grams for entire 2-person recipe",
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "quantity": 380,
+          "unit": "g",
+          "group": "protein",
+          "optional": false
+        },
+        {
+          "name": "potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "group": "starch",
+          "optional": false
+        },
+        {
+          "name": "sausage",
+          "quantity": 120,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "pepper",
+          "quantity": 100,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": 90,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "scallion",
+          "quantity": 30,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "parmesan",
+          "quantity": 25,
+          "unit": "g",
+          "group": "produce_or_topping",
+          "optional": false
+        },
+        {
+          "name": "half-and-half",
+          "quantity": 110,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "Cajun seasoning",
+          "quantity": 8,
+          "unit": "g",
+          "group": "sauce",
+          "optional": false
+        },
+        {
+          "name": "fresh garlic",
+          "quantity": 10,
+          "unit": "g",
+          "group": "aromatics",
+          "optional": false
+        },
+        {
+          "name": "olive or avocado oil",
+          "quantity": 12,
+          "unit": "g",
+          "group": "cooking",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "g",
+          "group": "seasoning",
+          "optional": false
+        },
+        {
