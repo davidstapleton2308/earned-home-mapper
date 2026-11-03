@@ -1,7 +1,7 @@
 {
   "app": "OBSIDIAN",
-  "version": "0.6.0",
-  "notes": "OBSIDIAN redesign: obsidian/forest green/emerald/silver branding, cinematic featured backdrop, horizontal shelves, browsing categories, floating bottom navigation, and animated eclipse splash.",
+  "version": "0.7.0",
+  "notes": "Targeted Mix VPN prompt filtering, native fullscreen compatibility option, better Fit/Fill and player quality guidance.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
