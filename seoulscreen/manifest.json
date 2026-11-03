@@ -1,7 +1,7 @@
 {
   "app": "OBSIDIAN",
-  "version": "0.7.0",
-  "notes": "Targeted Mix VPN prompt filtering, native fullscreen compatibility option, better Fit/Fill and player quality guidance.",
+  "version": "0.8.0",
+  "notes": "Featured artwork, Netflix-style details, 16 episodes for Marry My Husband, one-tap embedded-player launch, WebKit fullscreen and autoplay compatibility improvements.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
