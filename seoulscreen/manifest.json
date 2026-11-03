@@ -1,7 +1,7 @@
 {
   "app": "SeoulScreen",
-  "version": "0.4.0",
-  "notes": "In-app Check for Updates supports LiveContainer install deep links when a direct public IPA URL is available.",
+  "version": "0.5.0",
+  "notes": "Video playback compatibility fix: defaults to no ad filtering; player reload and ad-filtering menu.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
