@@ -1,7 +1,7 @@
 {
-  "app": "SeoulScreen",
-  "version": "0.5.0",
-  "notes": "Video playback compatibility fix: defaults to no ad filtering; player reload and ad-filtering menu.",
+  "app": "OBSIDIAN",
+  "version": "0.6.0",
+  "notes": "OBSIDIAN redesign: obsidian/forest green/emerald/silver branding, cinematic featured backdrop, horizontal shelves, browsing categories, floating bottom navigation, and animated eclipse splash.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
