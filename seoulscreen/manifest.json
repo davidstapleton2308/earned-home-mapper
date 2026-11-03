@@ -1,7 +1,7 @@
 {
   "app": "SeoulScreen",
-  "version": "0.2.0",
-  "notes": "Embedded Marry My Husband S1E1 player, catalog refresh and app update check in Settings",
+  "version": "0.3.0",
+  "notes": "Cinematic storefront, animated launch, recommendation shelves, content blocking, fullscreen fit controls",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03"
 }
