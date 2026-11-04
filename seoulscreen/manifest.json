@@ -1,7 +1,7 @@
 {
-  "app": "OBSIDIAN",
-  "version": "1.0.0",
-  "notes": "Added original KissKH episode URL as an in-app source alongside the existing alternate embed.",
+  "app": "Ruru’s Lounge",
+  "version": "1.2.0",
+  "notes": "Cozy Ruru’s Lounge rebrand, native episode loading, experimental video-only cinema mode, and original-page fallback.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
