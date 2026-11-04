@@ -1,8 +1,8 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "2.1.0",
-  "notes": "15-second translucent Up Next overlay (experimental over native fullscreen), immediate next episode playback after end, delayed subtitle track initialization, KissKH only; native player preserved.",
-  "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
-  "updated": "2026-11-03",
+  "version": "2.3.0",
+  "notes": "Personalized recommendations, Love It/Not for Me, Korean drama vs Korean TV filtering, fresh releases, subtitle recovery, and robust public update version checks.",
+  "download_page": "https://github.com/davidstapleton2308/earned-ios/releases/tag/ruru-v2.3.0",
+  "updated": "2026-11-04",
   "ipa_url": null
 }
