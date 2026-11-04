@@ -1,7 +1,7 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "2.0.0",
-  "notes": "K-drama lounge with TMDB catalog and recommendations, native close navigation, watch progress and resume, Up Next at episode end, subtitle styles; source playback limited to known connected show.",
+  "version": "2.1.0",
+  "notes": "15-second translucent Up Next overlay (experimental over native fullscreen), immediate next episode playback after end, delayed subtitle track initialization, KissKH only; native player preserved.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
