@@ -1,7 +1,7 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "1.2.0",
-  "notes": "Cozy Ruru’s Lounge rebrand, native episode loading, experimental video-only cinema mode, and original-page fallback.",
+  "version": "1.3.0",
+  "notes": "Season 1 Episode 1–16 selection, known direct episode links plus experimental in-page episode navigation, with the cozy player and website fallback.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
