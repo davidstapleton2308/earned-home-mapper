@@ -1,8 +1,8 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "2.5.0",
-  "notes": "Browse more TMDB Korean TV by year, automatically load additional catalog pages, episode still image fallbacks, rate-limited batch episode-source match checking, and continuous caption-track recovery.",
-  "download_page": "https://github.com/davidstapleton2308/earned-ios/releases/tag/ruru-v2.5.0",
+  "version": "2.5.1",
+  "notes": "Strict Korean/Asian-origin KissKH matching; old source matches require origin revalidation; update check shows published version, check time and authenticated GitHub release fallback.",
+  "download_page": "https://github.com/davidstapleton2308/earned-ios/releases/tag/ruru-v2.5.1",
   "updated": "2026-11-04",
   "ipa_url": null
 }
