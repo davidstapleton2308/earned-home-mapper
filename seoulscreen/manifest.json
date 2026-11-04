@@ -1,7 +1,7 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "1.4.0",
-  "notes": "Video-only native fullscreen attempt; website always covered; zoom-fill requested; no website-reveal button; retry screen if native presentation fails.",
+  "version": "1.5.0",
+  "notes": "Episode Up Next / autoplay on detected video end; player quality info and autoplay settings; original-resolution TMDB artwork and episode stills.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
