@@ -1,7 +1,7 @@
 {
   "app": "Ruru’s Lounge",
-  "version": "1.5.0",
-  "notes": "Episode Up Next / autoplay on detected video end; player quality info and autoplay settings; original-resolution TMDB artwork and episode stills.",
+  "version": "2.0.0",
+  "notes": "K-drama lounge with TMDB catalog and recommendations, native close navigation, watch progress and resume, Up Next at episode end, subtitle styles; source playback limited to known connected show.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
