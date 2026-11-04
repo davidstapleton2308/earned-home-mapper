@@ -1,7 +1,7 @@
 {
   "app": "OBSIDIAN",
-  "version": "0.8.0",
-  "notes": "Featured artwork, Netflix-style details, 16 episodes for Marry My Husband, one-tap embedded-player launch, WebKit fullscreen and autoplay compatibility improvements.",
+  "version": "1.0.0",
+  "notes": "Added original KissKH episode URL as an in-app source alongside the existing alternate embed.",
   "download_page": "https://github.com/davidstapleton2308/earned-ios/actions/workflows/seoulscreen-standalone.yml",
   "updated": "2026-11-03",
   "ipa_url": null
